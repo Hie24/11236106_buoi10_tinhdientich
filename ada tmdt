@@ -1,0 +1,646 @@
+CHƯƠG 1: TỔNG QUAN VỀ THƯƠNG MẠI ĐIỆN TỬ
+1. Định nghĩa Thương mại điện tử:
+Thương mại điện tử (TMĐT) là một khái niệm đa diện, được định nghĩa dưới nhiều góc độ khác nhau bởi các tổ chức quốc tế:
+•	Tổ chức Hợp tác và Phát triển Kinh tế (OECD): TMĐT là việc làm kinh doanh thông qua mạng Internet, bao gồm bán hàng hóa và dịch vụ có thể được phân phối trực tuyến (dạng số hóa) hoặc không trực tuyến (hàng hóa hữu hình).
+•	Ủy ban Liên Hợp Quốc về Luật Thương mại Quốc tế (UNCITRAL): TMĐT là việc trao đổi thông tin thương mại thông qua các phương tiện điện tử mà không cần in ra giấy ở bất kỳ công đoạn nào của quá trình giao dịch.
+•	Tổ chức Thương mại Thế giới (WTO): TMĐT bao gồm việc sản xuất, quảng cáo, bán hàng và phân phối sản phẩm được mua bán và thanh toán trên mạng Internet. Việc giao nhận có thể là hàng hóa hữu hình hoặc hàng hóa số hóa qua mạng.
+Về bản chất, TMĐT có thể được nhìn nhận từ hai góc độ chính:
+•	Góc độ Doanh nghiệp (M-S-D-P): Tập trung vào các hoạt động cốt lõi bao gồm Marketing (Tiếp thị), Sales (Bán hàng), Distribution (Phân phối), và Payment (Thanh toán) được thực hiện trên môi trường điện tử.
+•	Góc độ Quản lý Nhà nước (I-M-B-S): Nhấn mạnh các yếu tố vĩ mô cần thiết để TMĐT phát triển, bao gồm Infrastructure (Cơ sở hạ tầng), Message (Thông điệp, hay luồng thông tin), Basic rules (Các quy tắc cơ bản, hay hành lang pháp lý chung), và Specific rules (Các quy tắc riêng cho từng lĩnh vực).
+2. TMĐT dưới các Góc độ Khác nhau:
+TMĐT không chỉ là mua và bán. Nó bao trùm nhiều khía cạnh của hoạt động kinh tế và xã hội:
+•	Giao tiếp: Là việc phân phối hàng hóa, dịch vụ, thông tin hoặc thực hiện thanh toán qua mạng máy tính hoặc các phương tiện điện tử khác.
+•	Thương mại (Commercial): Cung cấp khả năng mua bán hàng hóa, dịch vụ và thông tin trên môi trường Internet.
+•	Quy trình kinh doanh: Là việc thực hiện kinh doanh bằng cách hoàn thiện các quy trình dựa trên mạng điện tử, thay thế cho các quy trình truyền thống.
+•	Dịch vụ: Là công cụ giúp chính phủ, doanh nghiệp, và người tiêu dùng cắt giảm chi phí, tăng chất lượng và tốc độ cung cấp dịch vụ.
+•	Học tập: Mở ra lựa chọn đào tạo trực tuyến cho các trường học, tổ chức và doanh nghiệp.
+•	Hợp tác: Tạo ra một mô hình khung cho sự hợp tác bên trong một tổ chức hoặc giữa các tổ chức trong cùng một chuỗi cung ứng.
+•	Cộng đồng: Cung cấp một không gian ảo để các thành viên có thể trao đổi, giao dịch và hợp tác với nhau.
+3. Các Giai đoạn Phát triển của TMĐT:
+Quá trình phát triển của TMĐT có thể được chia thành ba giai đoạn chính, thể hiện sự trưởng thành về công nghệ và mô hình kinh doanh:
+•	Giai đoạn 1: Thương mại Thông tin (i-Commerce): Giai đoạn sơ khai, chủ yếu tập trung vào việc đưa thông tin về sản phẩm, dịch vụ lên mạng web. Các hoạt động trao đổi, đàm phán, đặt hàng diễn ra qua các công cụ như email, chat, forum. Tuy nhiên, việc thanh toán và giao hàng vẫn được thực hiện theo phương thức truyền thống.
+•	Giai đoạn 2: Thương mại Giao dịch (t-Commerce): Đánh dấu bước tiến quan trọng với sự xuất hiện của các giao dịch trực tuyến (online transaction) hoàn chỉnh. Các hợp đồng điện tử được ký kết qua mạng và thanh toán điện tử được thực hiện trực tiếp trên nền tảng.
+•	Giai đoạn 3: Thương mại “cộng tác” (c-Business): Giai đoạn phát triển cao nhất, nơi các quy trình kinh doanh được tích hợp sâu rộng. Trong nội bộ doanh nghiệp, các bộ phận liên kết chặt chẽ với nhau (integrating). Đồng thời, doanh nghiệp kết nối liền mạch với các đối tác kinh doanh trong chuỗi cung ứng (connecting) để tạo ra một hệ sinh thái cộng tác hiệu quả.
+4. Các Đặc trưng của TMĐT:
+TMĐT sở hữu những đặc trưng riêng biệt so với thương mại truyền thống, được tạo nên bởi nền tảng công nghệ Internet:
+•	Ubiquity (Có ở khắp nơi): TMĐT hiện diện ở mọi nơi, mọi lúc, phá vỡ giới hạn về địa lý và thời gian.
+•	Global reach (Phạm vi toàn cầu): Cho phép doanh nghiệp dễ dàng tiếp cận thị trường và khách hàng trên toàn thế giới.
+•	Universal standards (Chuẩn mực quốc tế): Được xây dựng trên các tiêu chuẩn kỹ thuật chung của Internet, giúp giảm rào cản gia nhập thị trường.
+•	Information richness (Nhiều thông tin): Hỗ trợ truyền tải các thông điệp marketing phức tạp, đa dạng (video, audio, text).
+•	Interactivity (Tương tác): Cho phép giao tiếp hai chiều giữa doanh nghiệp và khách hàng.
+•	Information density (Tần suất thông tin): Lượng thông tin khổng lồ, dễ truy cập, giúp tăng tính minh bạch của thị trường.
+•	Cá thể hóa – Đồng sáng tạo (Personalization/Co-creation): Đặc trưng này có hai khía cạnh: Cá thể hóa (Personalization), nơi các thông điệp marketing và sản phẩm được điều chỉnh cho phù hợp với từng người dùng, và Đồng sáng tạo (Co-creation), một chiến lược cao cấp hơn nơi khách hàng được chủ động tham gia vào quá trình phát triển sản phẩm.
+•	Social technology (Công nghệ xã hội hóa): Tận dụng các nền tảng mạng xã hội để tạo ra nội dung và xây dựng mối quan hệ với khách hàng.
+1.3. Phân loại và Mô hình Kinh doanh
+1. Phân loại theo Tổ chức:
+Dựa trên mức độ tích hợp giữa hoạt động kinh doanh trực tuyến và truyền thống, các tổ chức có thể được phân thành ba loại chính:
+Loại hình	Đặc điểm	Ví dụ
+Brick-and-mortar	Tổ chức kinh doanh theo kiểu truyền thống, hoạt động chủ yếu theo phương thức offline, bán sản phẩm hữu hình qua các kênh phân phối vật lý.	Các cửa hàng tạp hóa, siêu thị truyền thống không có website bán hàng.
+Tổ chức ảo hoàn toàn	Tổ chức thực hiện mọi hoạt động kinh doanh hoàn toàn trực tuyến, không có cửa hàng vật lý.	Các công ty bán phần mềm trực tuyến, các sàn giao dịch TMĐT thuần túy.
+Click-and-mortar (Click-and-brick)	Tổ chức kết hợp cả hai phương thức. Họ thực hiện một số hoạt động TMĐT nhưng vẫn duy trì các hoạt động chính trong môi trường truyền thống.	Các chuỗi bán lẻ lớn có cả hệ thống cửa hàng vật lý và website bán hàng.
+2. Phân loại theo Đối tượng Giao dịch:
+TMĐT bao gồm nhiều mối quan hệ giao dịch giữa các chủ thể khác nhau:
+•	G2G (Government-to-Government): Giao dịch giữa các cơ quan chính phủ.
+•	G2B (Government-to-Business): Giao dịch giữa chính phủ và doanh nghiệp (ví dụ: mua sắm công, khai thuế điện tử).
+•	G2C (Government-to-Citizen): Giao dịch giữa chính phủ và người dân (ví dụ: cấp giấy phép, dịch vụ công trực tuyến).
+•	B2B (Business-to-Business): Giao dịch giữa các doanh nghiệp (ví dụ: nhà sản xuất bán hàng cho nhà phân phối).
+•	B2C (Business-to-Consumer): Giao dịch giữa doanh nghiệp và người tiêu dùng cuối cùng.
+•	C2C (Consumer-to-Consumer): Giao dịch giữa những người tiêu dùng với nhau (ví dụ: qua các sàn đấu giá, rao vặt trực tuyến).
+•	C2B (Consumer-to-Business): Giao dịch nơi người tiêu dùng tạo ra giá trị cho doanh nghiệp (ví dụ: cung cấp đánh giá, tham gia khảo sát có trả phí).
+3. Phân tích các Mô hình Doanh thu:
+Mô hình doanh thu giải thích cách một doanh nghiệp kiếm tiền. Dưới đây là các mô hình phổ biến trong TMĐT:
+•	Advertising Revenue Model (Mô hình Quảng cáo): Doanh thu được tạo ra từ việc bán không gian quảng cáo trên website cho các bên khác. Đây là mô hình chính của các trang tin tức, công cụ tìm kiếm và mạng xã hội.
+•	Subscription Revenue Model (Mô hình Đăng ký/Thuê bao): Khách hàng trả một khoản phí định kỳ (hàng tháng, hàng năm) để truy cập vào nội dung hoặc dịch vụ. Ví dụ: các nền tảng xem phim trực tuyến như Netflix, các trang báo điện tử thu phí.
+•	Transaction Fee Revenue Model (Mô hình Phí giao dịch): Doanh nghiệp nhận được một khoản phí hoặc hoa hồng trên mỗi giao dịch được thực hiện qua nền tảng của họ. Ví dụ: các sàn TMĐT như Tiki, Lazada thu phí từ người bán.
+•	Sales Revenue Model (Mô hình Bán hàng): Doanh thu đến trực tiếp từ việc bán sản phẩm hoặc dịch vụ cho khách hàng. Đây là mô hình cơ bản nhất của các nhà bán lẻ trực tuyến.
+•	Affiliate Revenue Model (Mô hình Tiếp thị Liên kết): Doanh nghiệp kiếm được hoa hồng bằng cách giới thiệu khách hàng đến website của một công ty khác và khách hàng đó thực hiện hành vi mua hàng hoặc đăng ký.
+•	Electronic Tendering System (Hệ thống đấu thầu điện tử): Một mô hình trong đó người mua đưa ra yêu cầu và mời các nhà cung cấp tiềm năng gửi báo giá (thầu). Nhà cung cấp đưa ra mức giá thấp nhất hoặc phù hợp nhất sẽ thắng thầu.
+•	Viral Marketing (Marketing lan tỏa/Truyền miệng): Doanh thu được tạo ra gián tiếp thông qua việc khuyến khích người dùng chia sẻ thông tin về sản phẩm/dịch vụ, tạo hiệu ứng lan truyền và thu hút khách hàng mới với chi phí thấp.
+•	Name Your Own Price (Mô hình Tự định giá): Mô hình cho phép người mua đưa ra mức giá họ sẵn sàng trả cho một sản phẩm/dịch vụ, và người bán có thể quyết định chấp nhận hoặc không.
+•	Group Purchasing (Mua theo nhóm): Cho phép các nhóm người mua tập hợp lại để mua hàng với số lượng lớn, từ đó nhận được mức giá chiết khấu tốt hơn.
+•	Online Auctions (Đấu giá trực tuyến): Nền tảng cho phép người bán đưa sản phẩm lên và người mua trả giá để cạnh tranh mua sản phẩm đó.
+1.4. Lợi ích, Hạn chế và Điều kiện Phát triển
+1. Lợi ích của TMĐT:
+TMĐT mang lại nhiều lợi ích đáng kể cho các bên tham gia:
+•	Đối với Tổ chức:
+o	Tiếp cận thị trường toàn cầu.
+o	Giảm chi phí vận hành, marketing và giao dịch.
+o	Cải tiến và tối ưu hóa chuỗi cung ứng.
+o	Hoạt động 24/7/365, không giới hạn thời gian.
+o	Khả năng sản xuất theo đơn hàng của khách, giảm tồn kho.
+o	Tạo ra nhiều mô hình kinh doanh mới.
+•	Đối với Khách hàng:
+o	Tiếp cận hàng hóa, dịch vụ ở khắp mọi nơi.
+o	Có nhiều sự lựa chọn về sản phẩm và nhà cung cấp.
+o	Sản phẩm/dịch vụ có thể được cá thể hóa.
+o	Giá cả cạnh tranh hơn do giảm chi phí trung gian.
+o	Nhận hàng nhanh chóng đối với các sản phẩm số hóa.
+o	Dễ dàng tham gia vào các cộng đồng điện tử, đấu giá.
+•	Đối với Xã hội:
+o	Thúc đẩy làm việc từ xa, giảm áp lực giao thông.
+o	Nâng cao mức sống thông qua việc tiếp cận hàng hóa giá rẻ hơn.
+o	Tăng cường an toàn, giảm thiểu di chuyển.
+o	Tạo cơ hội kinh doanh cho các nhóm yếu thế.
+o	Giúp các dịch vụ công trở nên sẵn có và tiện lợi hơn.
+2. Hạn chế và Cản trở:
+Mặc dù có nhiều lợi ích, TMĐT vẫn đối mặt với các hạn chế và rào cản:
+•	Hạn chế Kỹ thuật:
+o	Tốc độ đường truyền Internet còn chậm ở một số khu vực.
+o	Thiếu các tiêu chuẩn chung cho một số ứng dụng TMĐT.
+o	Khó khăn trong việc tích hợp website TMĐT với các ứng dụng kinh doanh truyền thống.
+o	Chi phí truy cập Internet vẫn còn cao đối với một bộ phận người dân.
+•	Hạn chế Thương mại và Các cản trở khác:
+o	Lo ngại về an ninh, bảo mật thông tin cá nhân và gian lận thẻ tín dụng.
+o	Thiếu lòng tin của người tiêu dùng đối với mua sắm trực tuyến.
+o	Thiếu nhân lực có kỹ năng và chuyên môn về TMĐT.
+o	Hạ tầng chữ ký số và các tổ chức chứng thực còn hạn chế.
+o	Nhận thức của nhiều tổ chức về tiềm năng của TMĐT còn chưa cao.
+o	Thói quen tiêu dùng tiền mặt và mua sắm truyền thống còn phổ biến.
+o	Các sàn giao dịch B2B chưa thực sự thân thiện với người dùng.
+o	Các rào cản thương mại quốc tế truyền thống vẫn còn tồn tại.
+3. Điều kiện Phát triển TMĐT:
+Để TMĐT phát triển mạnh mẽ, cần có sự hội tụ của nhiều yếu tố:
+•	Cơ sở pháp lý và Chính sách vĩ mô: Cần xây dựng một hành lang pháp lý hoàn chỉnh, thừa nhận giá trị của giao dịch điện tử, hài hòa hóa các quy định, bảo vệ quyền sở hữu trí tuệ và người tiêu dùng. Tại Việt Nam, các văn bản pháp luật quan trọng bao gồm Luật Giao dịch điện tử (2005), Nghị định 57/2006/NĐ-CP về TMĐT, Nghị định 26/2007/NĐ-CP về chữ ký số.
+•	Vai trò của các Tổ chức Quốc tế: Các tổ chức như UNCITRAL (đưa ra Luật mẫu về TMĐT), OECD (nghiên cứu về thuế, bảo vệ người tiêu dùng), và WIPO (bảo vệ sở hữu trí tuệ) đóng vai trò định hướng và tạo ra các chuẩn mực chung.
+•	Hạ tầng Công nghệ thông tin và Truyền thông: Bao gồm sự phát triển của ngành công nghiệp phần cứng, phần mềm, viễn thông, và đặc biệt là Internet băng thông rộng.
+•	An ninh và Bảo mật: Cần có hệ thống bảo mật mạnh mẽ để đảm bảo tính bí mật, toàn vẹn và sẵn sàng của dữ liệu, chống lại các cuộc tấn công mạng.
+•	Hệ thống Thanh toán Điện tử: Sự đa dạng và tiện lợi của các phương thức thanh toán trực tuyến là yếu tố then chốt để hoàn tất giao dịch.
+•	Nguồn nhân lực: Cần có chính sách đào tạo để xây dựng đội ngũ nhân lực chất lượng cao, am hiểu cả về công nghệ và kinh doanh.
+1.5. Thuật ngữ Chuyên ngành
+Thuật ngữ	Giải thích ngắn gọn
+B2B, B2C, C2C, G2G	Các loại hình giao dịch TMĐT dựa trên đối tượng tham gia: Doanh nghiệp với Doanh nghiệp, Doanh nghiệp với Khách hàng, Khách hàng với Khách hàng, Chính phủ với Chính phủ.
+TMĐT dưới góc độ giao tiếp	Việc phân phối hàng hóa, dịch vụ, thông tin hoặc thanh toán qua mạng.
+TMĐT dưới góc độ học tập	Việc cung cấp các khóa đào tạo trực tuyến cho nhiều đối tượng.
+TMĐT dưới góc độ dịch vụ	Công cụ giúp cắt giảm chi phí và tăng chất lượng, tốc độ dịch vụ.
+TMĐT dưới góc độ hợp tác	Mô hình khung cho sự hợp tác bên trong và giữa các tổ chức.
+TMĐT dưới góc độ cộng đồng	Nơi các thành viên trao đổi, giao dịch và hợp tác với nhau.
+TMĐT Thông tin	Giai đoạn đầu của TMĐT, tập trung vào việc đưa thông tin lên mạng.
+TMĐT Giao dịch	Giai đoạn phát triển cao hơn, cho phép thực hiện giao dịch hoàn chỉnh trực tuyến.
+TMĐT Cộng tác	Giai đoạn tích hợp sâu rộng các quy trình kinh doanh giữa doanh nghiệp và đối tác.
+Kiểu tổ chức brick-and-mortar	Tổ chức kinh doanh theo kiểu truyền thống, chủ yếu offline.
+Kiểu tổ chức ảo hoàn toàn	Tổ chức kinh doanh hoàn toàn trực tuyến, không có cửa hàng vật lý.
+Kiểu tổ chức click-and-mortar	Tổ chức kết hợp cả kinh doanh trực tuyến và truyền thống.
+Mô hình quảng cáo (Advertising Model)	Doanh thu đến từ việc bán không gian quảng cáo trên website.
+Mô hình Đăng ký (Subscription Model)	Doanh thu đến từ việc thu phí định kỳ của người dùng để truy cập dịch vụ.
+Affiliate (Tiếp thị liên kết)	Mô hình kiếm hoa hồng từ việc giới thiệu khách hàng cho một đối tác khác.
+-------------------------------------------------------------------------------- 
+CHƯƠNG 2: MẠNG MÁY TÍNH VÀ INTERNET
+2.2. Các loại Mạng máy tính
+1. Phân loại Mạng:
+Mạng máy tính được phân loại chủ yếu dựa trên phạm vi địa lý mà chúng bao phủ.
+Tên gọi	Phạm vi	Đặc điểm chính	Ví dụ
+LAN (Local Area Network)	Nhỏ (phòng, tòa nhà, khuôn viên)	Băng thông lớn, tốc độ cao, quản trị đơn giản. Kết nối các máy tính và thiết bị trong một khu vực giới hạn.	Mạng máy tính trong một văn phòng, phòng máy của trường đại học.
+MAN (Metropolitan Area Network)	Trung bình (thành phố, đô thị)	Kết nối nhiều mạng LAN lại với nhau trong phạm vi một thành phố hoặc một quốc gia.	Mạng cáp quang kết nối các sở ban ngành của một thành phố.
+WAN (Wide Area Network)	Rộng (quốc gia, toàn cầu)	Kết nối các mạng LAN, MAN ở khoảng cách xa. Phạm vi hoạt động rộng lớn, điển hình nhất là mạng Internet.	Mạng kết nối các chi nhánh của một tập đoàn đa quốc gia.
+2. Mạng LAN:
+Trong mạng LAN, các máy tính có thể được kết nối với nhau theo ba loại cấu trúc (topology) chính:
+•	Cấu trúc Sao (Star): Tất cả các máy tính được kết nối vào một thiết bị trung tâm (như Hub hoặc Switch). Đây là cấu trúc phổ biến nhất hiện nay.
+•	Cấu trúc Vòng (Ring): Các máy tính được kết nối với nhau thành một vòng khép kín. Dữ liệu được truyền đi theo một chiều nhất định.
+•	Cấu trúc Bus: Tất cả các máy tính được kết nối trên cùng một đường dây cáp chính (bus).
+2.3. Internet và Các Công nghệ Nền tảng
+1. Cấu trúc Internet:
+Internet là một mạng WAN khổng lồ, kết nối hàng tỷ thiết bị trên toàn cầu. Cấu trúc của nó bao gồm nhiều thành phần, trong đó có ba bên đóng vai trò chủ chốt:
+•	IAP (Internet Access Provider - Nhà cung cấp dịch vụ kết nối): Các đơn vị sở hữu hạ tầng mạng lõi, các tuyến cáp quang biển quốc tế (như FPT, Viettel, VNPT tại Việt Nam). Họ cung cấp đường truyền cho các ISP.
+•	ISP (Internet Service Provider - Nhà cung cấp dịch vụ Internet): Các công ty bán lẻ dịch vụ kết nối Internet trực tiếp đến người dùng cuối (hộ gia đình, doanh nghiệp).
+•	ICP (Internet Content Provider - Nhà cung cấp nội dung): Các tổ chức, cá nhân tạo ra và cung cấp thông tin, dịch vụ trên Internet (ví dụ: các trang web tin tức, mạng xã hội, nền tảng TMĐT).
+2. Các Giai đoạn Phát triển Internet:
+Lịch sử của Internet có thể được chia thành ba giai đoạn chính:
+1.	Giai đoạn Phát minh (1964–1974): Giai đoạn nghiên cứu và tạo ra các khối công nghệ cơ bản của Internet, khởi nguồn từ dự án ARPANET của Bộ Quốc phòng Hoa Kỳ.
+2.	Giai đoạn Tạo lập Thể chế (1975–1994): Các viện nghiên cứu và trường đại học lớn tham gia, cấp ngân sách và chuẩn hóa các giao thức, giúp Internet dần được hợp thức hóa và mở rộng.
+3.	Giai đoạn Đưa vào sử dụng Đại trà (1995–nay): Các doanh nghiệp tư nhân bắt đầu tham gia vận hành, mở rộng mạng lưới và cung cấp dịch vụ Internet tới công chúng, biến Internet thành một công cụ thương mại và xã hội toàn cầu.
+3. Các Mô hình và Công nghệ Hiện đại:
+•	Điện toán Client/Server: Đây là mô hình kiến trúc cơ bản của Internet. Trong đó, nhiều máy tính cá nhân (máy khách - client) gửi yêu cầu đến một hoặc nhiều máy tính mạnh hơn (máy chủ - server). Máy chủ xử lý yêu cầu và trả về kết quả, thực hiện các chức năng như lưu trữ file, chạy ứng dụng, quản lý cơ sở dữ liệu.
+•	Điện toán Đám mây (Cloud Computing): Là mô hình cung cấp tài nguyên điện toán (như máy chủ, lưu trữ, phần mềm) qua Internet. Thay vì phải tự xây dựng và quản lý hạ tầng, doanh nghiệp và cá nhân có thể thuê và sử dụng sức mạnh điện toán từ các nhà cung cấp đám mây. Lợi ích lớn nhất của mô hình này là giảm đáng kể chi phí đầu tư ban đầu về phần cứng, phần mềm và nhân sự IT. Ví dụ điển hình là bộ ứng dụng Google Apps.
+4. Kết nối Không dây:
+•	Dựa trên Công nghệ Điện thoại: Sự phát triển của mạng di động đã mang Internet đến với các thiết bị cầm tay.
+o	2G: Tốc độ rất chậm, chủ yếu cho thoại và tin nhắn.
+o	2.5G: Cải tiến, cho phép truy cập dữ liệu tốc độ thấp.
+o	3G: Tốc độ cao hơn đáng kể, cho phép duyệt web, xem video trên di động.
+o	4G (LTE): Tốc độ rất cao, mang lại trải nghiệm băng thông rộng thực sự trên thiết bị di động.
+•	Dựa trên Mạng Máy tính (WLANs): Các công nghệ kết nối không dây trong phạm vi cục bộ.
+Công nghệ	Tốc độ	Phạm vi	Ứng dụng chính
+Wi-Fi	Cao	Ngắn (trong nhà, văn phòng)	Mạng LAN không dây, cung cấp kết nối Internet băng thông rộng cố định.
+WiMax	Cao	Trung bình (vài km)	Mạng không dây băng thông rộng cho khu vực đô thị.
+Bluetooth	Thấp	Rất ngắn (vài mét)	Kết nối các thiết bị ngoại vi (tai nghe, chuột, bàn phím) với máy tính, điện thoại.
+UWB	Rất cao	Ngắn	Truyền dữ liệu băng thông rộng giữa các thiết bị ở cự ly gần.
+Zigbee	Thấp	Ngắn	Điều khiển từ xa các thiết bị kỹ thuật số trong nhà thông minh, IoT.
+2.4. Intranet và Extranet
+1. Intranet:
+Intranet là một mạng máy tính riêng tư, sử dụng các công nghệ của Internet (như giao thức TCP/IP, trình duyệt web) để chia sẻ thông tin và tài nguyên trong nội bộ một tổ chức. Các thành phần chính của một Intranet bao gồm: máy khách (client), máy chủ (server), và tường lửa (firewall) - một hệ thống phần cứng hoặc phần mềm ngăn chặn sự truy cập trái phép từ bên ngoài.
+Lợi ích của Intranet:
+•	Thúc đẩy chia sẻ kiến thức và hợp tác nhóm.
+•	Cá thể hóa thông tin cho từng nhân viên.
+•	Quản lý và truy cập dữ liệu nội bộ hiệu quả.
+•	Tổ chức đào tạo trực tuyến cho nhân viên.
+•	Hỗ trợ các hoạt động TMĐT trong nội bộ (Intrabusiness e-commerce).
+2. Extranet:
+Extranet là một phần mở rộng của Intranet, cho phép các đối tác kinh doanh bên ngoài (như nhà cung cấp, khách hàng thân thiết) truy cập có kiểm soát vào một phần tài nguyên mạng của tổ chức. Extranet được xây dựng dựa trên mạng Intranet và sử dụng các công nghệ kết nối an toàn như "Tunneling" (tạo một đường hầm ảo bảo mật qua mạng công cộng).
+Lợi ích của Extranet:
+•	Tăng cường khả năng giao tiếp và trao đổi thông tin với đối tác.
+•	Giảm chi phí sản xuất và quản lý chuỗi cung ứng.
+•	Mở rộng khả năng kinh doanh và hợp tác.
+2.5. Thuật ngữ Chuyên ngành
+Thuật ngữ	Giải thích ngắn gọn
+Intranet	Mạng riêng của một tổ chức, sử dụng công nghệ Internet.
+Internet	Mạng máy tính toàn cầu kết nối hàng tỷ thiết bị.
+Extranet	Mạng Intranet được mở rộng cho các đối tác bên ngoài truy cập.
+Mạng LAN, MAN, WAN	Phân loại mạng theo phạm vi địa lý: Cục bộ, Đô thị, Diện rộng.
+Băng thông	Khả năng truyền tải dữ liệu của một đường truyền, thường đo bằng bps (bits per second).
+Cáp quang	Loại cáp sử dụng ánh sáng để truyền dữ liệu với tốc độ rất cao.
+Điện toán đám mây	Cung cấp tài nguyên máy tính (phần cứng, phần mềm) qua Internet.
+Mô hình máy chủ/máy khách	Kiến trúc mạng trong đó máy khách gửi yêu cầu và máy chủ xử lý, phản hồi.
+Tên miền	Địa chỉ định danh của một website trên Internet (ví dụ: neu.edu.vn).
+Hosting	Dịch vụ lưu trữ dữ liệu của website trên một máy chủ luôn kết nối Internet.
+-------------------------------------------------------------------------------- 
+CHƯƠNG 3: WEBSITE THƯƠNG MẠI ĐIỆN TỬ
+3.1. Giới thiệu Chương
+Website chính là "bộ mặt" và "cửa hàng" của một doanh nghiệp trên không gian mạng. Nó không chỉ là nơi trưng bày sản phẩm mà còn là công cụ tương tác, giao dịch và xây dựng thương hiệu. Một website hiệu quả có thể quyết định sự thành bại của chiến lược kinh doanh trực tuyến. Chương này sẽ hướng dẫn các nguyên lý cơ bản và quy trình để xây dựng một website TMĐT, từ những khái niệm nền tảng như tên miền, hosting đến việc lập kế hoạch và lựa chọn công nghệ phù hợp.
+3.2. Các Thành phần Cơ bản của Website
+1. Định nghĩa Website và Trang web:
+Cần phân biệt rõ ràng hai khái niệm thường bị nhầm lẫn này:
+•	Website: Là một tập hợp các trang web liên quan, được truy cập thông qua một địa chỉ duy nhất (tên miền) trên Internet, ví dụ: www.neu.edu.vn. Website có thể được ví như một cuốn sách.
+•	Trang web (Web page): Là một tài liệu đơn lẻ trong một website, thường có định dạng như www.neu.edu.vn/gioithieu.html. Trang web có thể được ví như một trang sách trong cuốn sách đó.
+2. Tên miền (Domain Name):
+Tên miền là địa chỉ định danh duy nhất của một website trên Internet, giúp người dùng dễ dàng tìm thấy và truy cập.
+•	Vai trò: Tên miền chuyển đổi địa chỉ IP (một dãy số khó nhớ) của máy chủ thành một cái tên dễ nhớ, có ý nghĩa.
+•	Phân loại:
+o	Tên miền cấp 1 (Top-Level Domain - TLD): Là phần đuôi của tên miền.
+	Tổng quát (gTLD): .com, .org, .net, .edu, .gov.
+	Theo quốc gia (ccTLD): .vn (Việt Nam), .uk (Anh), .jp (Nhật Bản).
+o	Tên miền cấp 2: Là phần đứng trước tên miền cấp 1, thường là tên thương hiệu (neu trong neu.edu.vn). Ngoài ra, còn có tên miền cấp 2 phân loại theo lĩnh vực (.com.vn, .edu.vn) hoặc theo địa phương (.hanoi.vn).
+3. Dịch vụ Lưu trữ (Hosting):
+Hosting là dịch vụ cung cấp không gian trên một máy chủ (server) để lưu trữ tất cả các tệp tin và dữ liệu của website.
+•	Tầm quan trọng: Máy chủ hosting phải hoạt động liên tục 24/7 và luôn kết nối Internet để đảm bảo website có thể được truy cập bất cứ lúc nào.
+•	Lưu ý khi chọn hosting:
+o	Tránh free hosting: Hosting miễn phí thường có nhiều hạn chế, không cho phép sử dụng tên miền riêng, chất lượng kém và không đáng tin cậy.
+o	Tránh hosting không có khả năng mở rộng: Cần chọn nhà cung cấp cho phép dễ dàng nâng cấp dung lượng và băng thông khi website phát triển.
+o	Tránh hosting quá rẻ: Dịch vụ hosting quá rẻ thường đi kèm với chất lượng thấp, hỗ trợ kém và rủi ro bảo mật cao.
+3.3. Quy trình Xây dựng Website TMĐT
+1. Phân tích và Lập kế hoạch:
+Đây là bước đầu tiên và quan trọng nhất, quyết định định hướng của toàn bộ dự án.
+•	Xác định Mục đích kinh doanh: Website được xây dựng để làm gì? (Bán hàng, giới thiệu thương hiệu, cung cấp thông tin,...) Từ đó, liệt kê tất cả các tính năng mong muốn.
+•	Xác định Chức năng của hệ thống: Dựa trên mục đích kinh doanh, xây dựng danh sách các yêu cầu về chức năng hệ thống cần đáp ứng (ví dụ: giỏ hàng, thanh toán trực tuyến, quản lý đơn hàng).
+•	Xác định Các yêu cầu về thông tin: Hệ thống cần tạo ra những thông tin gì để phục vụ kinh doanh? (ví dụ: báo cáo doanh thu, phân tích hành vi khách hàng).
+2. Các Giải pháp Hosting và Xây dựng:
+Doanh nghiệp có nhiều lựa chọn để xây dựng và vận hành website:
+•	Thuê ngoài hoàn toàn: Giao toàn bộ quá trình từ thiết kế, lập trình đến lưu trữ cho một công ty dịch vụ chuyên nghiệp.
+•	Tự thiết kế và thuê ngoài lưu trữ: Doanh nghiệp tự xây dựng website (nếu có đủ năng lực nhân sự) và chỉ thuê dịch vụ hosting từ bên ngoài.
+•	Co-location: Doanh nghiệp tự mua máy chủ và đặt tại trung tâm dữ liệu của nhà cung cấp dịch vụ để tận dụng hạ tầng mạng và an ninh chuyên nghiệp.
+•	Thuê dịch vụ lưu trữ (Hosting): Thuê không gian trên máy chủ của một nhà cung cấp chuyên nghiệp. Đây là giải pháp phổ biến nhất cho các doanh nghiệp vừa và nhỏ.
+3. Lựa chọn Phần mềm TMĐT:
+Một website bán hàng cần các phần mềm chuyên dụng với các chức năng cơ bản sau:
+•	Online catalog (Danh mục sản phẩm trực tuyến): Chức năng hiển thị, quản lý và liệt kê các sản phẩm một cách trực quan và khoa học.
+•	Shopping cart (Giỏ hàng): Cho phép khách hàng lựa chọn sản phẩm, xem lại các mặt hàng đã chọn, thay đổi số lượng và tiến hành thanh toán.
+•	Credit card processing (Xử lý thanh toán thẻ): Tích hợp với các cổng thanh toán để xác minh thông tin thẻ và chuyển tiền vào tài khoản của doanh nghiệp một cách an toàn.
+3.4. Hướng dẫn Thực hành với WordPress
+1. Giới thiệu Localhost:
+•	Localhost là gì? Là một thuật ngữ chỉ máy chủ web chạy trên máy tính cá nhân của bạn. Việc cài đặt website trên localhost cho phép bạn xây dựng và thử nghiệm website một cách an toàn trước khi đưa lên Internet.
+•	Giới thiệu phần mềm XAMPP: XAMPP là một bộ phần mềm miễn phí, giúp dễ dàng tạo ra một môi trường máy chủ web trên máy tính, bao gồm các thành phần cần thiết như Apache (web server), MySQL (cơ sở dữ liệu), và PHP.
+2. Các bước Cài đặt:
+Quy trình cài đặt WordPress trên localhost bằng XAMPP bao gồm các bước chính sau:
+1.	Tải và cài đặt XAMPP: Download và cài đặt XAMPP lên máy tính, sau đó khởi động các dịch vụ Apache và MySQL.
+2.	Tải WordPress: Tải mã nguồn WordPress phiên bản mới nhất từ trang chủ wordpress.org.
+3.	Tạo Cơ sở dữ liệu: Truy cập vào phpMyAdmin trên localhost để tạo một cơ sở dữ liệu mới cho website.
+4.	Cài đặt WordPress: Giải nén mã nguồn WordPress vào thư mục htdocs của XAMPP, sau đó truy cập vào địa chỉ localhost trên trình duyệt để bắt đầu quá trình cài đặt, kết nối với cơ sở dữ liệu đã tạo.
+5.	Bắt đầu làm việc: Sau khi cài đặt thành công, bạn có thể đăng nhập vào trang quản trị WordPress để bắt đầu xây dựng website của mình.
+3.5. Thuật ngữ Chuyên ngành
+Thuật ngữ	Giải thích ngắn gọn
+Website	Một tập hợp các trang web liên quan, có cùng một tên miền.
+Trình duyệt web	Phần mềm dùng để truy cập và hiển thị nội dung các website (ví dụ: Chrome, Firefox).
+Tên miền	Địa chỉ định danh của một website trên Internet.
+Dịch vụ hosting	Dịch vụ cung cấp không gian lưu trữ cho website trên máy chủ.
+Tính tương tác	Khả năng giao tiếp hai chiều giữa website và người dùng.
+Tính cá nhân hóa	Khả năng tùy chỉnh nội dung, sản phẩm theo từng người dùng cụ thể.
+Đồng sáng tạo	Chiến lược cho phép người dùng tham gia vào quá trình phát triển sản phẩm, dịch vụ.
+Hyperlink	Một liên kết từ một trang web này đến một trang web khác hoặc một vị trí khác trong cùng trang.
+Cơ sở dữ liệu	Nơi lưu trữ có cấu trúc các thông tin của website (sản phẩm, người dùng, đơn hàng).
+Vòng đời phát triển website	Quy trình từ lập kế hoạch, thiết kế, xây dựng, triển khai đến bảo trì một website.
+Phần mềm máy chủ	Phần mềm chạy trên máy chủ để xử lý các yêu cầu từ trình duyệt (ví dụ: Apache).
+-------------------------------------------------------------------------------- 
+CHƯƠNG 4: CHIẾN LƯỢC KINH DOANH TMĐT
+4.2. Khái niệm và Quy trình Chiến lược
+1. Khái niệm Chiến lược Kinh doanh:
+Chiến lược kinh doanh là một bản kế hoạch tổng thể, trả lời những câu hỏi cơ bản nhưng vô cùng quan trọng:
+•	Doanh nghiệp sẽ làm gì để đạt được mục tiêu?
+•	Doanh nghiệp sẽ cạnh tranh như thế nào trong thị trường?
+•	Doanh nghiệp sẽ đi theo hướng nào?
+Về bản chất, chiến lược giúp định hướng tất cả các hoạt động của doanh nghiệp theo một con đường thống nhất, nhằm tạo ra và duy trì lợi thế cạnh tranh, cuối cùng là đưa doanh nghiệp đến thành công.
+2. Chu trình Lập kế hoạch Chiến lược:
+Việc xây dựng chiến lược là một chu trình liên tục, bao gồm bốn giai đoạn chính:
+1.	Phân tích môi trường bên trong và bên ngoài: Đây là giai đoạn thu thập thông tin để hiểu rõ bối cảnh hoạt động của doanh nghiệp. Phân tích môi trường bên ngoài giúp nhận diện các cơ hội (Opportunities) và thách thức (Threats), trong khi phân tích môi trường bên trong giúp xác định các điểm mạnh (Strengths) và điểm yếu (Weaknesses).
+2.	Xây dựng chiến lược: Dựa trên kết quả phân tích, doanh nghiệp sẽ hoạch định các mục tiêu dài hạn và các phương án hành động cụ thể để đạt được mục tiêu đó, đồng thời tận dụng điểm mạnh, khắc phục điểm yếu, nắm bắt cơ hội và đối phó với thách thức.
+3.	Thực hiện chiến lược: Giai đoạn triển khai các kế hoạch đã đề ra vào thực tế hoạt động của doanh nghiệp, bao gồm việc phân bổ nguồn lực, tổ chức nhân sự và điều hành các hoạt động hàng ngày.
+4.	Đánh giá và chỉnh sửa chiến lược: Môi trường kinh doanh luôn thay đổi, do đó doanh nghiệp cần liên tục theo dõi, đo lường kết quả và đánh giá hiệu quả của chiến lược. Nếu cần thiết, phải tiến hành điều chỉnh để chiến lược luôn phù hợp với tình hình thực tế.
+4.3. Các Công cụ Phân tích Môi trường
+1. Phân tích Môi trường bên ngoài (Mô hình PEST):
+Mô hình PEST giúp doanh nghiệp phân tích các yếu tố vĩ mô có thể tác động đến hoạt động kinh doanh, qua đó xác định các cơ hội và thách thức. Các yếu tố cần xem xét bao gồm:
+•	Political (Chính trị): Sự ổn định chính trị, các chính sách của chính phủ.
+•	Economic (Kinh tế): Tốc độ tăng trưởng kinh tế, lạm phát, thu nhập của người dân.
+•	Social-Cultural (Văn hóa - Xã hội): Thói quen tiêu dùng, xu hướng xã hội, nhân khẩu học.
+•	Technological (Công nghệ): Hạ tầng CNTT và viễn thông, các xu hướng công nghệ mới.
+•	Legal (Luật pháp): Các quy định pháp lý liên quan đến TMĐT, bảo vệ người tiêu dùng.
+2. Phân tích Môi trường Ngành (Mô hình 5 Áp lực cạnh tranh của Porter):
+Mô hình này giúp đánh giá mức độ hấp dẫn và cường độ cạnh tranh trong một ngành cụ thể thông qua việc phân tích 5 áp lực chính:
+1.	Mối đe dọa từ các đối thủ mới: Rào cản gia nhập ngành cao hay thấp?
+2.	Quyền thương lượng của nhà cung cấp: Nhà cung cấp có khả năng gây áp lực về giá hay không?
+3.	Quyền thương lượng của khách hàng: Khách hàng có khả năng gây áp lực về giá và chất lượng không?
+4.	Mối đe dọa từ các sản phẩm/dịch vụ thay thế: Có nhiều sản phẩm khác có thể đáp ứng cùng một nhu cầu của khách hàng không?
+5.	Cường độ cạnh tranh giữa các đối thủ hiện tại: Mức độ cạnh tranh trong ngành đang diễn ra gay gắt như thế nào?
+3. Phân tích Môi trường bên trong:
+Mục đích của việc phân tích này là "nhìn lại chính mình" để xác định những gì doanh nghiệp đang làm tốt (điểm mạnh) và những gì còn yếu kém (điểm yếu). Các yếu tố cần xem xét bao gồm nguồn lực tài chính, đội ngũ nhân sự, năng lực công nghệ, văn hóa tổ chức, và thương hiệu.
+4. Phân tích SWOT:
+Ma trận SWOT là công cụ tổng hợp kết quả từ các phân tích trên, giúp doanh nghiệp xây dựng các chiến lược phù hợp bằng cách kết hợp các yếu tố bên trong và bên ngoài.
+	Điểm mạnh (Strengths - S)	Điểm yếu (Weaknesses - W)
+Cơ hội (Opportunities - O)	Chiến lược SO: Sử dụng điểm mạnh để khai thác tối đa các cơ hội.	Chiến lược WO: Khắc phục điểm yếu để tận dụng các cơ hội.
+Thách thức (Threats - T)	Chiến lược ST: Sử dụng điểm mạnh để hạn chế hoặc đối phó với các nguy cơ, thách thức.	Chiến lược WT: Tối thiểu hóa điểm yếu và né tránh các thách thức.
+4.4. Các Yếu tố Cốt lõi của Kinh doanh TMĐT
+Một mô hình kinh doanh TMĐT thành công cần được xây dựng dựa trên việc làm rõ các yếu tố cốt lõi sau:
+•	Mệnh đề giá trị: Trả lời câu hỏi: "Tại sao khách hàng nên mua hàng từ doanh nghiệp đó mà không phải từ đối thủ?" Đây là những lợi ích độc đáo mà doanh nghiệp mang lại cho khách hàng.
+•	Mô hình doanh thu: Doanh nghiệp sẽ kiếm tiền bằng cách nào? (Bán hàng, quảng cáo, phí giao dịch, v.v.).
+•	Cơ hội thị trường: Thị trường mục tiêu của doanh nghiệp lớn đến đâu và có tiềm năng tăng trưởng không?
+•	Môi trường cạnh tranh: Ai là đối thủ cạnh tranh? Họ mạnh và yếu ở điểm nào?
+•	Lợi thế cạnh tranh: Yếu tố nào giúp doanh nghiệp vượt trội hơn đối thủ? (Giá rẻ hơn, chất lượng tốt hơn, dịch vụ độc đáo, v.v.).
+•	Chiến lược thị trường: Kế hoạch để thâm nhập thị trường và thu hút khách hàng là gì?
+•	Phát triển tổ chức: Cấu trúc tổ chức và các quy trình hoạt động sẽ được xây dựng như thế nào để thực hiện chiến lược?
+•	Đội ngũ quản lý: Đội ngũ lãnh đạo có đủ kinh nghiệm và năng lực để dẫn dắt doanh nghiệp đến thành công không?
+4.5. Thuật ngữ Chuyên ngành
+Thuật ngữ	Giải thích ngắn gọn
+Môi trường kinh doanh TMĐT	Toàn bộ các yếu tố bên ngoài và bên trong ảnh hưởng đến hoạt động TMĐT của doanh nghiệp.
+Kinh tế số	Nền kinh tế vận hành chủ yếu dựa trên công nghệ số và Internet.
+Hạ tầng thanh toán	Hệ thống các ngân hàng, cổng thanh toán, ví điện tử cho phép giao dịch trực tuyến.
+An ninh/An toàn thông tin	Các biện pháp bảo vệ dữ liệu và hệ thống khỏi các mối đe dọa trên không gian mạng.
+Chiến lược kinh doanh điện tử	Kế hoạch tổng thể để đạt được mục tiêu kinh doanh thông qua các phương tiện điện tử.
+Phân tích SWOT	Công cụ phân tích Điểm mạnh (Strengths), Điểm yếu (Weaknesses), Cơ hội (Opportunities), và Thách thức (Threats).
+-------------------------------------------------------------------------------- 
+CHƯƠNG 5: LÝ THUYẾT VỀ TMĐT B2C, C2C, B2B2C
+5.1. Giới thiệu Chương
+Lĩnh vực B2C (Business-to-Consumer) là mảng thương mại điện tử quen thuộc và gần gũi nhất với hầu hết chúng ta, nơi doanh nghiệp bán sản phẩm và dịch vụ trực tiếp cho người tiêu dùng cuối cùng. Sự phát triển bùng nổ của các sàn TMĐT, ứng dụng di động và mạng xã hội đã thay đổi hoàn toàn cách chúng ta mua sắm. Chương này sẽ phân tích sâu các mô hình kinh doanh bán lẻ, hành vi của khách hàng trực tuyến, và các xu hướng công nghệ đột phá đang định hình lại cách doanh nghiệp tương tác với người dùng cá nhân.
+5.2. Đặc điểm và Hành vi Khách hàng B2C
+1. Tổng quan TMĐT B2C:
+TMĐT B2C đặc trưng bởi sự đổi mới sáng tạo liên tục trên nhiều phương diện:
+•	Đối tượng khách hàng: Hướng tới người tiêu dùng cá nhân với nhu cầu đa dạng.
+•	Đổi mới về sản phẩm: Liên tục ra mắt các sản phẩm, dịch vụ mới để đáp ứng thị hiếu thay đổi nhanh chóng.
+•	Đổi mới về kênh phân phối: Tận dụng các kênh trực tuyến để tiếp cận khách hàng một cách trực tiếp và hiệu quả.
+•	Ứng dụng công nghệ: Các công nghệ mới được áp dụng để cải thiện trải nghiệm khách hàng và tối ưu hóa vận hành, ví dụ như Grab đã mở rộng từ gọi xe sang giao đồ ăn (GrabFood) và giao hàng (Grab Now).
+2. Dữ liệu Thị trường:
+Dữ liệu cho thấy một bối cảnh thương mại di động có tính cạnh tranh cao, bị chi phối bởi các nền tảng như Shopee, Lazada và Tiki. Các ứng dụng này liên tục cạnh tranh để thu hút người dùng thông qua các chiến dịch marketing và cải tiến tính năng, cho thấy sự tăng trưởng mạnh mẽ và vai trò trung tâm của mua sắm trên di động trong thị trường TMĐT B2C tại Việt Nam.
+3. Hành vi Khách hàng:
+Quyết định mua sắm trực tuyến của người tiêu dùng bị ảnh hưởng bởi một loạt các yếu tố phức tạp, bao gồm các đặc điểm cá nhân (như tuổi tác, thu nhập), các yếu tố môi trường (như văn hóa, xã hội), và đặc biệt là các thuộc tính của sản phẩm, nhà cung cấp và hệ thống website (như giá cả, thương hiệu, chất lượng dịch vụ, thiết kế website).
+5.3. Các Mô hình Kinh doanh Bán lẻ
+1. Phân loại theo Mô hình Kinh doanh:
+•	Bán lẻ theo đơn hàng trực tuyến: Mô hình mà sản phẩm được sản xuất và cấu hình theo yêu cầu cụ thể của khách hàng đặt qua mạng. Ví dụ: Dell cho phép khách hàng tự xây dựng cấu hình máy tính của mình.
+•	Marketing trực tiếp từ nhà sản xuất: Nhà sản xuất bán hàng trực tiếp đến người tiêu dùng qua kênh trực tuyến, bỏ qua các khâu trung gian truyền thống.
+•	Bán lẻ trực tuyến hoàn toàn: Các doanh nghiệp hoạt động hoàn toàn trên môi trường mạng, không có cửa hàng vật lý. Ví dụ: Amazon, Booking.com, Agoda.
+•	Click-and-mortar: Mô hình kết hợp giữa kênh bán hàng trực tuyến (website) và kênh truyền thống (cửa hàng vật lý). Ví dụ: Tiki (kết hợp với các điểm nhận hàng), các chuỗi siêu thị lớn.
+•	Khu mua sắm trực tuyến (Online Mall): Các sàn giao dịch TMĐT tập hợp nhiều người bán khác nhau trên cùng một nền tảng. Ví dụ: Lazada, Shopee, Sendo, Alibaba.
+2. Phân loại theo Mô hình Doanh thu:
+•	Portal (Cổng giao dịch):
+o	Khái niệm: Là các website đóng vai trò là điểm khởi đầu, cung cấp công cụ tìm kiếm và tích hợp nhiều nội dung, dịch vụ khác nhau để thu hút lượng lớn người dùng. Như đã thảo luận ở Chương 1, một nền tảng duy nhất như portal có thể áp dụng đồng thời nhiều mô hình doanh thu khác nhau.
+o	Mô hình doanh thu: Chủ yếu từ quảng cáo (Advertising) và phí giới thiệu (Referral fees), đôi khi kết hợp cả mô hình đăng ký (Subscription).
+o	Phân loại:
+	Portal ngang (Horizontal): Cung cấp đa dạng các chủ đề, hướng tới đối tượng rộng (ví dụ: Google, Facebook).
+	Portal dọc (Vertical - Vortal): Tập trung vào một lĩnh vực hoặc một nhóm đối tượng cụ thể.
+•	Content Provider (Nhà cung cấp nội dung):
+o	Khái niệm: Các doanh nghiệp tạo ra và phân phối các nội dung số như tin tức, video, âm nhạc, sách điện tử.
+o	Mô hình doanh thu: Thường là đăng ký thuê bao (Subscription), trả phí cho mỗi lần tải (Pay-per-download), hoặc quảng cáo. Ví dụ: Netflix, các nhà xuất bản khoa học như Springer, ProQuest.
+•	Sharing Economy (Kinh tế Chia sẻ):
+o	Khái niệm: Là một hệ thống kinh tế đề cao việc chia sẻ và hợp tác, cho phép mọi người tận dụng và tái phân phối các tài nguyên chưa được sử dụng hiệu quả (như xe hơi, nhà ở, kỹ năng). Nền tảng công nghệ đóng vai trò trung gian kết nối người có tài sản/dịch vụ và người có nhu cầu.
+o	Ví dụ tiêu biểu: Airbnb (chia sẻ nhà ở), Uber/Grab (chia sẻ xe), Facebook (chia sẻ nội dung).
+3. Mô hình OMNI Channel:
+Omni Channel (Bán hàng đa kênh) là chiến lược tiếp cận khách hàng một cách liền mạch và đồng nhất trên tất cả các kênh. Người tiêu dùng có thể tương tác với người bán thông qua nhiều điểm chạm khác nhau như Website, Mạng xã hội, Cửa hàng vật lý, Ứng dụng di động, v.v., và trải nghiệm của họ được xuyên suốt, không bị gián đoạn khi chuyển từ kênh này sang kênh khác.
+5.4. Thuật ngữ Chuyên ngành
+Thuật ngữ	Giải thích ngắn gọn
+Giao dịch B2C	Giao dịch thương mại giữa Doanh nghiệp (Business) và Người tiêu dùng (Consumer).
+Trải nghiệm khách hàng	Toàn bộ cảm nhận và tương tác của khách hàng với một thương hiệu trong suốt hành trình mua sắm.
+Các điểm chạm khách hàng	Bất kỳ điểm nào mà khách hàng tiếp xúc với thương hiệu (website, quảng cáo, cửa hàng, nhân viên,...).
+Công nghệ 4.0	Cuộc cách mạng công nghiệp lần thứ tư, với các công nghệ như AI, IoT, Big Data.
+OMNI Channel	Chiến lược bán hàng đa kênh, tạo ra trải nghiệm liền mạch và đồng nhất cho khách hàng.
+Hệ sinh thái dịch vụ TMĐT	Một mạng lưới các dịch vụ liên kết với nhau (bán hàng, thanh toán, giao vận, marketing) xoay quanh một nền tảng chính.
+F2C (Factory-to-Consumer)	Mô hình bán hàng trực tiếp từ nhà máy đến người tiêu dùng.
+D2C (Direct-to-Consumer)	Mô hình bán hàng trực tiếp từ thương hiệu đến người tiêu dùng.
+
+CHƯƠNG 6: LÝ THUYẾT VỀ TMĐT B2B
+6.2. Khái niệm và Phân biệt B2B vs. B2C
+1. Khái niệm TMĐT B2B:
+Business-to-business e-commerce (eB2B), hay TMĐT B2B, là các giao dịch thương mại giữa hai hoặc nhiều doanh nghiệp được thực hiện thông qua các phương tiện điện tử như Internet, Extranet, hoặc Intranet. Các giao dịch này bao gồm việc mua bán nguyên vật liệu, thiết bị, dịch vụ phục vụ cho hoạt động sản xuất kinh doanh.
+2. So sánh B2B và B2C:
+Mặc dù cùng là TMĐT, B2B và B2C có những khác biệt cơ bản về bản chất giao dịch và phương pháp tiếp cận.
+Phương diện	Thương mại điện tử B2B	Thương mại điện tử B2C
+Đối tượng giao dịch	Giữa các tổ chức, doanh nghiệp. Quyết định mua hàng mang tính lý trí, dựa trên logic, thông số kỹ thuật và ROI.	Giữa doanh nghiệp và người tiêu dùng cá nhân. Quyết định mua hàng thường bị chi phối bởi cảm xúc.
+Phương pháp tiếp cận	Tập trung xây dựng mối quan hệ lâu dài, tin cậy với đối tác.	Tập trung vào việc thúc đẩy sản phẩm và xây dựng thương hiệu để thu hút khách hàng.
+Công cụ marketing/sale kit	Yêu cầu các tài liệu chuyên sâu, chi tiết về sản phẩm, các trường hợp nghiên cứu (case study), báo giá phức tạp.	Thường sử dụng các công cụ marketing đại chúng, hình ảnh hấp dẫn, khuyến mãi.
+Kỹ năng của người bán	Đòi hỏi kỹ năng đàm phán, hiểu biết sâu về sản phẩm và ngành, khả năng xây dựng quan hệ đối tác chiến lược.	Đòi hỏi kỹ năng thuyết phục, nắm bắt tâm lý khách hàng và chốt đơn hàng nhanh.
+6.3. Các loại Giao dịch và Hàng hóa trong B2B
+1. Phân loại Giao dịch:
+•	Spot buying (Mua ngay): Là việc mua sắm các loại hàng hóa và dịch vụ cần thiết một cách nhanh chóng, thường theo mức giá đang thịnh hành trên thị trường. Giao dịch này thường không mang tính chiến lược dài hạn.
+•	Strategic sourcing (Mua theo chiến lược nguồn): Là việc mua sắm dựa trên các hợp đồng dài hạn, được thỏa thuận riêng giữa người mua và người bán. Hoạt động này mang tính chiến lược, nhằm đảm bảo nguồn cung ổn định và tối ưu chi phí.
+2. Phân loại Vật liệu:
+Trong sản xuất, các loại hàng hóa B2B được chia thành các nhóm chính:
+•	Vật liệu trực tiếp: Là những nguyên vật liệu được sử dụng trực tiếp để tạo ra sản phẩm cuối cùng (ví dụ: thép để sản xuất ô tô, giấy để in sách).
+•	Vật liệu gián tiếp: Là những vật liệu hỗ trợ cho quá trình sản xuất nhưng không cấu thành nên sản phẩm (ví dụ: văn phòng phẩm, thiết bị bảo hộ).
+•	MROs (Maintenance, Repairs, and Operations): Là các vật tư phục vụ cho việc bảo trì, sửa chữa và vận hành máy móc, nhà xưởng (ví dụ: dầu nhớt, bóng đèn, dụng cụ sửa chữa).
+3. Các loại Giao dịch B2B Căn bản:
+•	Sell-side (Bên bán): Một doanh nghiệp xây dựng một website hoặc cổng giao dịch để bán sản phẩm của mình cho nhiều doanh nghiệp khác.
+•	Buy-side (Bên mua): Một doanh nghiệp lớn xây dựng một hệ thống để mua hàng từ nhiều nhà cung cấp khác nhau.
+•	Exchanges (Sàn giao dịch): Một thị trường điện tử trung gian, nơi nhiều người mua và nhiều người bán gặp nhau để giao dịch.
+•	Collaborative commerce (Thương mại cộng tác): Các doanh nghiệp trong một chuỗi cung ứng sử dụng công nghệ để hợp tác, chia sẻ thông tin và tối ưu hóa quy trình làm việc chung.
+6.4. Lợi ích và Xu hướng Công nghệ B2B
+1. Lợi ích của Giao dịch B2B:
+TMĐT B2B mang lại nhiều lợi ích giúp doanh nghiệp nâng cao hiệu quả và năng lực cạnh tranh:
+•	Tăng hiệu quả và giảm chi phí:
+o	Giảm chi phí giao dịch, quản lý, marketing và bán hàng.
+o	Giảm chi phí tìm kiếm và lựa chọn nhà cung cấp.
+o	Giảm mức tồn kho nhờ khả năng sản xuất juste-in-time.
+•	Tối ưu hóa Chuỗi cung ứng:
+o	Giảm thời gian chờ đợi và xử lý đơn hàng.
+o	Tăng sự linh hoạt trong sản xuất.
+o	Cải thiện chất lượng dịch vụ và giảm thiểu lỗi.
+•	Mở rộng Cơ hội kinh doanh:
+o	Tạo ra các cơ hội bán hàng mới.
+o	Tăng cường cơ hội hợp tác giữa các doanh nghiệp.
+o	Cho phép cá thể hóa catalog sản phẩm và giá cả cho từng khách hàng.
+2. Các Công nghệ Ứng dụng:
+Sự phát triển của TMĐT B2B được thúc đẩy bởi việc ứng dụng các công nghệ tiên tiến:
+•	RFID/Barcode: Giúp tự động hóa việc theo dõi và quản lý hàng hóa trong kho và chuỗi cung ứng.
+•	Sensor/IoT (Internet of Things): Các cảm biến kết nối Internet giúp thu thập dữ liệu thời gian thực từ máy móc, phương tiện, hỗ trợ bảo trì dự đoán và tối ưu hóa vận hành.
+•	Big Data: Phân tích khối lượng dữ liệu khổng lồ để dự báo nhu cầu, tối ưu hóa giá cả và quản lý rủi ro.
+•	AI (Trí tuệ nhân tạo): Tự động hóa các quy trình, cá nhân hóa trải nghiệm khách hàng và hỗ trợ ra quyết định.
+•	AR/VR (Thực tế tăng cường/Thực tế ảo): Hỗ trợ trưng bày sản phẩm phức tạp, đào tạo kỹ thuật và bảo trì từ xa.
+6.5. Thuật ngữ Chuyên ngành
+Thuật ngữ	Giải thích ngắn gọn
+B2B	Giao dịch thương mại giữa các doanh nghiệp (Business-to-Business).
+Mua ngay (Spot buying)	Mua hàng hóa theo nhu cầu tức thời, dựa trên giá thị trường.
+Mua theo chiến lược nguồn	Mua hàng hóa dựa trên hợp đồng dài hạn, có tính chiến lược.
+Hàng hóa vật liệu trực tiếp	Nguyên vật liệu cấu thành nên sản phẩm cuối cùng.
+Hàng hóa vật liệu gián tiếp	Vật liệu hỗ trợ quá trình sản xuất.
+Hàng MROs	Vật tư dùng cho bảo trì, sửa chữa và vận hành.
+Sàn giao dịch (Exchanges)	Thị trường điện tử trung gian cho nhiều người mua và người bán.
+Chuỗi cung ứng	Mạng lưới các tổ chức, con người, hoạt động, thông tin và tài nguyên liên quan đến việc di chuyển sản phẩm từ nhà cung cấp đến khách hàng.
+-------------------------------------------------------------------------------- 
+CHƯƠNG 7: LÝ THUYẾT VỀ CHÍNH PHỦ ĐIỆN TỬ
+7.2. Khái niệm và Mục tiêu của CPĐT
+1. Định nghĩa CPĐT:
+Theo Ngân hàng Thế giới (World Bank), Chính phủ điện tử là việc các cơ quan Chính phủ sử dụng một cách có hệ thống công nghệ thông tin - truyền thông để thực hiện quan hệ với công dân, doanh nghiệp và các tổ chức xã hội. Qua đó, các giao dịch sẽ được cải thiện, chất lượng dịch vụ được nâng cao, góp phần giảm tham nhũng, tăng cường tính công khai, minh bạch và thúc đẩy tăng trưởng kinh tế.
+2. Mục tiêu của CPĐT:
+Việc xây dựng CPĐT hướng tới các mục tiêu cơ bản sau:
+•	Nâng cao năng lực quản lý và điều hành của các cơ quan chính quyền các cấp.
+•	Cung cấp các dịch vụ công thuận tiện, dễ dàng truy cập cho người dân và doanh nghiệp.
+•	Giảm chi phí hoạt động cho bộ máy hành chính nhà nước.
+•	Xây dựng một chính phủ hiện đại, hoạt động hiệu quả và minh bạch.
+•	Tạo điều kiện để người dân tham gia tích cực hơn vào quá trình xây dựng chính sách và điều hành đất nước.
+7.3. Các Chủ thể và Loại hình Giao dịch
+1. Chủ thể Tham gia:
+Hoạt động của Chính phủ điện tử xoay quanh mối quan hệ tương tác giữa ba chủ thể chính: Chính phủ, Doanh nghiệp, và Người dân.
+2. Các Loại hình Giao dịch:
+•	G2C (Government-to-Citizens - Chính phủ với Người dân): Là việc cung cấp các dịch vụ công và thông tin trực tiếp cho người dân. Ví dụ: cấp giấy khai sinh trực tuyến, nộp thuế cá nhân qua mạng, tra cứu thông tin quy hoạch, tổ chức thăm dò dư luận.
+•	G2B (Government-to-Business - Chính phủ với Doanh nghiệp): Là các dịch vụ và quan hệ giữa chính phủ với cộng đồng doanh nghiệp. Ví dụ: đăng ký kinh doanh trực tuyến, khai báo hải quan điện tử, mua sắm công, cung cấp thông tin về đấu thầu.
+•	G2E (Government-to-Employees - Chính phủ với Cán bộ, Công chức): Là các dịch vụ và giao dịch trong nội bộ cơ quan nhà nước, hướng tới cán bộ, công chức, viên chức. Ví dụ: quản lý nhân sự, đào tạo trực tuyến, chi trả lương, bảo hiểm.
+•	G2G (Government-to-Government - Chính phủ với Chính phủ): Là sự phối hợp, trao đổi thông tin và dịch vụ giữa các cơ quan, các cấp chính quyền với nhau để nâng cao hiệu quả điều hành. Ví dụ: liên thông văn bản điện tử giữa các bộ, ngành.
+7.4. Các Giai đoạn và Cấp độ Phát triển
+1. Các Giai đoạn Phát triển (Mô hình Gartner):
+Hãng tư vấn Gartner đã xây dựng một mô hình phổ biến, chia quá trình phát triển CPĐT thành bốn giai đoạn:
+1.	Giai đoạn 1: Thông tin (Presence): Các cơ quan chính phủ bắt đầu hiện diện trên web, cung cấp thông tin một chiều cho công chúng (ví dụ: đăng tải các văn bản pháp luật, giới thiệu về cơ cấu tổ chức).
+2.	Giai đoạn 2: Tương tác (Interaction): Cho phép giao tiếp hai chiều giữa chính phủ và người dân/doanh nghiệp. Người dùng có thể tải về các biểu mẫu, gửi email yêu cầu, sử dụng các công cụ tra cứu.
+3.	Giai đoạn 3: Giao dịch (Transaction): Người dùng có thể thực hiện các giao dịch hoàn chỉnh trực tuyến mà không cần đến cơ quan hành chính. Ví dụ: nộp hồ sơ và thanh toán lệ phí trực tuyến.
+4.	Giai đoạn 4: Chuyển hóa (Transformation): Giai đoạn cao nhất, nơi tất cả các hệ thống thông tin được tích hợp, cung cấp các dịch vụ công một cách liền mạch, chủ động và cá nhân hóa cho người dân tại một điểm giao dịch duy nhất (cổng dịch vụ công quốc gia).
+2. Các Cấp độ Dịch vụ công Trực tuyến tại Việt Nam:
+Theo Nghị định 43/2011/NĐ-CP, dịch vụ công trực tuyến tại Việt Nam được phân thành 4 mức độ:
+Mức độ	Mô tả
+Mức độ 1	Cung cấp đầy đủ thông tin về thủ tục hành chính và các văn bản liên quan.
+Mức độ 2	Thêm chức năng cho phép người dùng tải về các mẫu văn bản, biểu mẫu để khai báo.
+Mức độ 3	Cho phép người dùng điền và gửi trực tuyến các biểu mẫu đến cơ quan xử lý. Các giao dịch trong quá trình xử lý được thực hiện trên mạng.
+Mức độ 4	Cho phép người dùng thanh toán lệ phí (nếu có) trực tuyến. Toàn bộ quá trình từ nộp hồ sơ, thanh toán đến nhận kết quả đều có thể thực hiện online.
+7.5. Lợi ích của CPĐT
+•	Đối với Chính phủ: Giảm "nạn giấy tờ", tiết kiệm thời gian và chi phí vận hành, hợp lý hóa quy trình công việc, và cung cấp thông tin kịp thời, chính xác cho việc ra quyết định.
+•	Đối với người dân và doanh nghiệp: Giảm thời gian và chi phí đi lại khi thực hiện các thủ tục hành chính, tiếp cận dịch vụ công dễ dàng hơn, và có cơ hội tham gia vào các hoạt động của chính phủ.
+•	Đối với công chức: Có công cụ làm việc hiệu quả hơn, nâng cao năng suất và khả năng đáp ứng nhu cầu của người dân.
+7.6. Thuật ngữ Chuyên ngành
+Thuật ngữ	Giải thích ngắn gọn
+Chính phủ điện tử	Việc ứng dụng ICT vào hoạt động của các cơ quan nhà nước.
+Chính phủ số	Khái niệm phát triển cao hơn của CPĐT, tập trung vào việc chuyển đổi số toàn diện hoạt động của chính phủ dựa trên dữ liệu.
+G2C, G2B, G2E, G2G	Các loại hình giao dịch: Chính phủ với Người dân, Doanh nghiệp, Công chức, và Chính phủ.
+Mua sắm công	Hoạt động mua sắm hàng hóa, dịch vụ của các cơ quan nhà nước, có thể được thực hiện trực tuyến.
+Trao đổi dữ liệu điện tử EDI	Chuẩn trao đổi thông tin có cấu trúc giữa các hệ thống máy tính, thường được áp dụng trong G2B.
+-------------------------------------------------------------------------------- 
+CHƯƠNG 8: THANH TOÁN TRỰC TUYẾN
+8.2. Các Công cụ Thanh toán Trực tuyến
+Hệ sinh thái thanh toán trực tuyến ngày càng đa dạng với nhiều công cụ khác nhau:
+•	Chuyển tiền điện tử (Internet banking): Người dùng đăng nhập vào tài khoản ngân hàng trực tuyến của mình để thực hiện lệnh chuyển tiền.
+•	Séc điện tử: Một phiên bản số hóa của séc giấy truyền thống, cho phép thực hiện thanh toán qua mạng.
+•	Ví tiền số hoá (Ví điện tử): Là một tài khoản điện tử cho phép người dùng nạp tiền vào và sử dụng để thanh toán các hóa đơn, dịch vụ, mua sắm trực tuyến. Ví dụ: Momo, Payoo, Moca, VNPay, ZaloPay, VTC Pay, AirPay.
+•	Thẻ tín dụng/ghi nợ: Hình thức thanh toán phổ biến nhất trên toàn cầu với các thương hiệu lớn như Visa, Mastercard, JCB.
+•	QR Code: Người dùng sử dụng ứng dụng di động để quét mã QR và xác nhận thanh toán một cách nhanh chóng.
+•	Cổng thanh toán điện tử: Là dịch vụ trung gian kết nối giữa website của người bán, ngân hàng và người mua để xử lý các giao dịch thanh toán trực tuyến một cách an toàn. Ví dụ: Ngân lượng, OnePay, VNPay.
+•	Bitcoin và các loại tiền mã hóa: Một hình thức thanh toán phi tập trung dựa trên công nghệ blockchain, tuy nhiên vẫn chưa phổ biến rộng rãi.
+8.3. Thanh toán bằng Thẻ
+1. Phân loại Thẻ thanh toán:
+•	Thẻ tín dụng (Credit cards): Ngân hàng cấp cho chủ thẻ một hạn mức tín dụng để chi tiêu trước, trả tiền sau. Chủ thẻ sẽ thanh toán lại cho ngân hàng vào cuối kỳ sao kê. Các thương hiệu phổ biến là Visa, Mastercard, JCB.
+•	Thẻ trả phí (Charge cards): Tương tự thẻ tín dụng nhưng yêu cầu chủ thẻ phải thanh toán toàn bộ số dư vào cuối kỳ, không cho phép trả góp.
+•	Thẻ ghi nợ (Debit cards): Liên kết trực tiếp với tài khoản tiền gửi của chủ thẻ. Khi thanh toán, tiền sẽ được trừ trực tiếp từ tài khoản ngân hàng.
+2. Quy trình Thanh toán Thẻ:
+•	Các bên tham gia:
+o	Chủ thẻ (Người mua)
+o	Cơ sở chấp nhận thẻ (Người bán)
+o	Ngân hàng phát hành thẻ (Issuing Bank - Ngân hàng của người mua)
+o	Ngân hàng thanh toán (Acquiring Bank - Ngân hàng của người bán)
+o	Tổ chức chuyển mạch thẻ (Card Network - ví dụ: Visa, Mastercard)
+•	Quy trình thanh toán: Một giao dịch thanh toán thẻ trực tuyến diễn ra qua nhiều bước chỉ trong vài giây:
+1.	Khởi tạo Giao dịch: Khách hàng (chủ thẻ) nhập thông tin thẻ trên website của người bán và xác nhận thanh toán.
+2.	Gửi yêu cầu: Thông tin giao dịch được mã hóa và gửi từ người bán đến Ngân hàng thanh toán của họ.
+3.	Chuyển tiếp qua Mạng lưới Thẻ: Ngân hàng thanh toán chuyển tiếp yêu cầu xin cấp phép (authorization request) đến Tổ chức chuyển mạch thẻ (Visa/Mastercard).
+4.	Xác thực tại Ngân hàng Phát hành: Mạng lưới thẻ định tuyến yêu cầu đến đúng Ngân hàng phát hành thẻ của khách hàng.
+5.	Kiểm tra và Phản hồi: Ngân hàng phát hành kiểm tra thông tin thẻ, số dư/hạn mức tín dụng và các yếu tố bảo mật, sau đó gửi lại phản hồi (chấp thuận hoặc từ chối) qua mạng lưới thẻ.
+6.	Hoàn tất Giao dịch: Phản hồi được truyền ngược lại qua Ngân hàng thanh toán đến người bán. Nếu được chấp thuận, giao dịch được hoàn tất và khách hàng nhận được xác nhận.
+7.	Thanh toán Bù trừ: Vào cuối ngày, các ngân hàng sẽ thực hiện quy trình thanh toán bù trừ (clearing and settlement) để chuyển tiền thực tế từ Ngân hàng phát hành sang Ngân hàng thanh toán. Cuối cùng, chủ thẻ sẽ nhận sao kê ghi nợ khoản chi tiêu đó.
+3. Dịch vụ và Rủi ro:
+•	Các dịch vụ đi kèm: Thanh toán thẻ không chỉ là chuyển tiền mà còn đi kèm nhiều dịch vụ giá trị gia tăng như cấp tín dụng, bảo hiểm rủi ro gian lận, dịch vụ giải quyết tranh chấp, và khả năng sử dụng trên toàn cầu.
+•	Phân tích Rủi ro:
+o	Đối với ngân hàng phát hành thẻ: Rủi ro lớn nhất là khách hàng mất khả năng thanh toán (nợ xấu) hoặc các trường hợp gian lận, mạo danh.
+o	Đối với ngân hàng thanh toán: Rủi ro phát sinh nếu có sai sót trong quá trình cấp phép hoặc không cập nhật kịp thời danh sách thẻ bị khóa ("danh sách đen").
+o	Đối với cơ sở chấp nhận thẻ: Rủi ro khi chấp nhận thẻ hết hạn, hoặc cố tình chia nhỏ giao dịch để tránh phải xin cấp phép, dẫn đến giao dịch không được ngân hàng thanh toán.
+o	Đối với chủ thẻ: Rủi ro mất tiền nếu làm mất thẻ và để lộ mã PIN, hoặc bị đánh cắp thông tin thẻ khi giao dịch trên các website không an toàn.
+8.4. Các Hình thức Giao dịch Thanh toán Điện tử khác
+•	Chuyển tiền điện tử (EFT) & EFTPOS:
+o	EFT (Electronic Funds Transfer): Là thuật ngữ chung chỉ việc chuyển tiền bằng phương tiện điện tử.
+o	EFTPOS (EFT at Point of Sale): Là một dạng của EFT, áp dụng tại các điểm bán hàng truyền thống (siêu thị, cửa hàng) thông qua máy POS, cho phép khách hàng sử dụng thẻ để thanh toán.
+•	Giao dịch EDI tài chính:
+o	EDI-VAN: Theo truyền thống, trao đổi dữ liệu điện tử (EDI) tài chính thường được thực hiện qua các mạng giá trị gia tăng (VAN) riêng, đòi hỏi các thỏa thuận phức tạp và chi phí cao.
+o	EDI-Internet: Sự ra đời của Internet đã tạo ra một hệ thống EDI mở, linh hoạt và chi phí thấp hơn, giúp nhiều doanh nghiệp dễ dàng tiếp cận hơn.
+8.5. Thuật ngữ Chuyên ngành
+Thuật ngữ	Giải thích ngắn gọn
+Cổng thanh toán	Dịch vụ trung gian xử lý các giao dịch thanh toán trực tuyến giữa người bán, người mua và ngân hàng.
+Thẻ tín dụng	Thẻ cho phép chi tiêu trước, trả tiền sau trong một hạn mức tín dụng nhất định.
+Ví điện tử	Một tài khoản trực tuyến dùng để lưu trữ tiền và thực hiện các giao dịch thanh toán.
+QR Code	Mã vạch hai chiều được sử dụng để thanh toán nhanh bằng cách quét qua ứng dụng di động.
+Rủi ro thanh toán	Các nguy cơ tổn thất tài chính có thể xảy ra trong quá trình thanh toán (gian lận, lỗi hệ thống).
+Séc điện tử	Phiên bản điện tử của séc giấy, cho phép thanh toán qua mạng.
+Internet Banking	Dịch vụ cho phép khách hàng quản lý tài khoản và thực hiện giao dịch ngân hàng qua Internet.
+POS (Point of Sale)	Thiết bị tại điểm bán hàng dùng để chấp nhận thanh toán bằng thẻ.
+Đi liền với vấn đề thanh toán là an ninh, một chủ đề tối quan trọng sẽ được phân tích sâu trong chương tiếp theo.
+-------------------------------------------------------------------------------- 
+CHƯƠNG 9: AN NINH TRONG THƯƠNG MẠI ĐIỆN TỬ
+9.1. Giới thiệu Chương
+An ninh là nền tảng của niềm tin trong thương mại điện tử. Không có an ninh, khách hàng sẽ không dám cung cấp thông tin cá nhân và tài chính, và doanh nghiệp sẽ luôn đối mặt với nguy cơ bị tấn công, gây tổn thất nặng nề về tài sản và uy tín. Do đó, việc đảm bảo an toàn cho dữ liệu và giao dịch là yêu cầu sống còn. Chương này sẽ giúp nhận diện các loại rủi ro phổ biến và phân tích các giải pháp kỹ thuật, pháp lý then chốt để bảo vệ tất cả các bên tham gia vào TMĐT.
+9.2. Rủi ro trong TMĐT
+1. Khái niệm Rủi ro:
+Rủi ro trong TMĐT là những sự cố hoặc mối đe dọa xảy ra bất ngờ, nằm ngoài tầm kiểm soát, có thể gây tổn thất về tài chính, dữ liệu hoặc uy tín cho các chủ thể tham gia.
+2. Phân loại Rủi ro:
+Các rủi ro trong TMĐT có thể được phân thành bốn nhóm chính:
+•	Rủi ro về dữ liệu: Đây là nhóm rủi ro phổ biến nhất, liên quan đến việc bảo vệ thông tin.
+o	Dữ liệu lưu trữ: Nguy cơ website bị thay đổi nội dung, cơ sở dữ liệu khách hàng hoặc thông tin thẻ tín dụng bị đánh cắp.
+o	Dữ liệu trên đường truyền: Nguy cơ thông tin bị nghe lén hoặc sửa đổi trong quá trình truyền tải giữa máy khách và máy chủ.
+•	Rủi ro về công nghệ: Liên quan đến các hình thức tấn công vào hạ tầng công nghệ.
+o	Tấn công từ chối dịch vụ (DoS, DDoS): Kẻ tấn công làm tràn ngập hệ thống bằng các yêu cầu vô ích, khiến website bị tắc nghẽn và không thể phục vụ người dùng hợp lệ.
+o	Sniffer (Kẻ nghe lén): Các chương trình phần mềm được sử dụng để "nghe lén" và đánh cắp dữ liệu truyền đi trên mạng.
+•	Rủi ro về thủ tục quy trình giao dịch: Các sai sót phát sinh từ quy trình nội bộ của công ty, ví dụ như không kiểm tra kỹ thông tin đối tác, thiếu kỹ năng ký kết hợp đồng điện tử, dẫn đến rủi ro không nhận hàng hoặc không được thanh toán.
+•	Rủi ro về luật pháp và tiêu chuẩn: Sự không tương thích về luật pháp giữa các quốc gia (nước đối tác có thừa nhận giao dịch điện tử không?) hoặc việc thiếu các tiêu chuẩn công nghiệp chung cho một số lĩnh vực của TMĐT.
+9.3. Các Yêu cầu và Giải pháp Bảo mật
+1. Năm Yêu cầu về An ninh Giao dịch:
+Một hệ thống TMĐT an toàn cần đáp ứng năm yêu cầu cốt lõi:
+1.	Bí mật (Secrecy/Confidentiality): Đảm bảo thông tin chỉ được truy cập bởi những người có quyền.
+2.	Toàn vẹn (Integrity): Đảm bảo thông tin không bị thay đổi, sửa xóa một cách trái phép trong quá trình lưu trữ hoặc truyền tải.
+3.	Sẵn sàng (Availability): Đảm bảo hệ thống và dữ liệu luôn sẵn sàng phục vụ khi người dùng hợp lệ có nhu cầu.
+4.	Chống phủ định (Non-repudiation): Đảm bảo các bên tham gia không thể chối bỏ hành động mà họ đã thực hiện (ví dụ: không thể phủ nhận đã đặt hàng).
+5.	Xác thực (Authentication): Đảm bảo có thể xác minh danh tính thực sự của các bên tham gia giao dịch.
+2. Các Giải pháp Kỹ thuật Tổng quan:
+Để đáp ứng các yêu cầu trên, cần triển khai các giải pháp bảo vệ ở nhiều lớp:
+•	Bảo vệ môi trường giao dịch: Sử dụng các kỹ thuật mã hóa (Cryptography).
+•	Bảo vệ kênh truyền thông: Sử dụng các giao thức bảo mật như SSL, VPNs.
+•	Bảo vệ mạng: Sử dụng tường lửa (Firewalls) và các máy chủ proxy.
+•	Bảo vệ máy chủ và máy khách: Sử dụng phần mềm chống virus, bảo mật hệ điều hành.
+9.4. Phân tích Chuyên sâu về Mã hóa và Chữ ký số
+1. Mã hóa Dữ liệu (Encryption):
+Mã hóa là quá trình chuyển đổi dữ liệu từ dạng có thể đọc được (plaintext) sang dạng không thể đọc được (ciphertext) để bảo vệ tính bí mật. Có hai phương pháp mã hóa chính:
+Tiêu chí	Mã hóa khóa bí mật (Đối xứng)	Mã hóa khóa công khai (Bất đối xứng)
+Số lượng khóa	Sử dụng một khóa duy nhất cho cả việc mã hóa và giải mã.	Sử dụng một cặp khóa: một khóa công khai (public key) để mã hóa và một khóa bí mật (private key) để giải mã.
+Cơ chế hoạt động	Người gửi và người nhận phải chia sẻ và giữ bí mật cùng một khóa. Tốc độ nhanh.	Khóa công khai được chia sẻ rộng rãi, khóa bí mật được giữ kín. An toàn hơn trong việc phân phối khóa nhưng tốc độ chậm hơn.
+2. Chữ ký Điện tử và Chữ ký số:
+•	Chữ ký điện tử: Theo Luật Giao dịch điện tử Việt Nam, đây là thông tin (dưới dạng từ, chữ, số, ký hiệu,...) được tạo ra bằng phương tiện điện tử, gắn liền với một thông điệp dữ liệu để xác nhận người ký và sự chấp thuận của họ đối với nội dung.
+•	Chữ ký số: Là một dạng chữ ký điện tử tiên tiến, sử dụng công nghệ mã hóa khóa công khai. Nó không chỉ xác thực người ký mà còn đảm bảo tính toàn vẹn của thông điệp.
+o	Cơ chế tạo chữ ký số: Người gửi sử dụng một hàm băm (hash function) để tạo ra một bản tóm tắt (digest) của thông điệp gốc. Sau đó, họ dùng khóa bí mật của mình để mã hóa bản tóm tắt này. Kết quả chính là chữ ký số, được đính kèm với thông điệp gốc và gửi đi. Người nhận sẽ dùng khóa công khai của người gửi để giải mã chữ ký, đồng thời tự chạy hàm băm trên thông điệp nhận được. Nếu hai bản tóm tắt khớp nhau, điều đó chứng tỏ thông điệp là xác thực và không bị thay đổi.
+3. Hạ tầng khóa Công khai (PKI):
+Để quản lý và tin tưởng vào các khóa công khai, cần có một hệ thống gọi là Hạ tầng khóa Công khai (PKI).
+•	Cơ quan chứng thực (CA - Certification Authority): Là một tổ chức đáng tin cậy, có vai trò xác minh danh tính của các cá nhân/tổ chức và cấp phát Chứng thư số (Digital Certificate).
+•	Chứng thư số: Là một tệp tin điện tử do CA cấp, chứa thông tin về chủ thể (tên, tổ chức), khóa công khai của chủ thể đó, và được ký số bởi CA để đảm bảo tính xác thực.
+4. Các Giao thức Bảo mật:
+•	SSL (Secure Sockets Layer): Là giao thức tiêu chuẩn để thiết lập một kênh truyền thông được mã hóa giữa máy chủ web và trình duyệt. Khi một website sử dụng SSL (thường có địa chỉ bắt đầu bằng https://), mọi dữ liệu trao đổi sẽ được bảo vệ, đảm bảo tính bí mật và toàn vẹn.
+•	SET (Secure Electronic Transaction): Là một giao thức bảo mật được phát triển bởi Visa và Mastercard, được thiết kế riêng để bảo vệ các giao dịch thanh toán bằng thẻ tín dụng trên Internet. Nó sử dụng chứng thư số để xác thực tất cả các bên tham gia (chủ thẻ, người bán, ngân hàng).
+9.5. Thuật ngữ Chuyên ngành
+Thuật ngữ	Giải thích ngắn gọn
+Chứng thực số	Quá trình xác minh và cấp chứng thư số bởi một Cơ quan chứng thực (CA).
+Quản trị rủi ro	Quá trình nhận diện, đánh giá và kiểm soát các rủi ro có thể xảy ra.
+Chữ ký điện tử	Dữ liệu điện tử dùng để xác nhận người ký và sự chấp thuận của họ.
+Tính bí mật	Đảm bảo thông tin không bị tiết lộ cho những người không có quyền.
+Tính toàn vẹn	Đảm bảo thông tin không bị thay đổi một cách trái phép.
+Mã hóa khóa công khai	Phương pháp mã hóa sử dụng một cặp khóa (công khai và bí mật).
+Mã hóa khóa bí mật	Phương pháp mã hóa sử dụng một khóa duy nhất cho cả mã hóa và giải mã.
+Chữ ký số	Dạng chữ ký điện tử an toàn dựa trên mã hóa khóa công khai.
+SSL, SET	Các giao thức bảo mật dùng để bảo vệ kênh truyền thông (SSL) và giao dịch thanh toán thẻ (SET).
+DoS, DDoS	Tấn công từ chối dịch vụ, làm hệ thống bị quá tải và không thể hoạt động.
+Sau khi đã đảm bảo giao dịch được thực hiện một cách an toàn, bước tiếp theo là làm thế nào để thu hút và giữ chân khách hàng, đó chính là nội dung của chương cuối cùng: Marketing trực tuyến.
+-------------------------------------------------------------------------------- 
+CHƯƠNG 10: MARKETING TRỰC TUYẾN (DIGITAL MARKETING)
+10.1. Giới thiệu Chương
+Trong kỷ nguyên số, việc sở hữu một sản phẩm tốt hay một website hiện đại là chưa đủ. Doanh nghiệp cần phải chủ động tiếp cận, thu hút và thuyết phục khách hàng trong một môi trường trực tuyến đầy cạnh tranh. Marketing trực tuyến (Digital Marketing) chính là tập hợp các công cụ và chiến lược không thể thiếu để thực hiện nhiệm vụ đó. Chương này sẽ khám phá quy trình lập kế hoạch, các công cụ marketing đa dạng từ miễn phí đến trả phí, và các chiến lược nuôi dưỡng khách hàng hiện đại.
+10.2. Từ Marketing Truyền thống đến Hiện đại
+1. Sự chuyển đổi Mô hình:
+Tư duy marketing đã có sự tiến hóa mạnh mẽ để thích ứng với sự thay đổi của nền kinh tế:
+•	Mô hình 4Ps (Kinh tế Sản xuất): Tập trung vào doanh nghiệp với các yếu tố Product (Sản phẩm), Price (Giá), Place (Phân phối), Promotion (Xúc tiến).
+•	Mô hình 7Ps (Kinh tế Dịch vụ): Mở rộng từ 4Ps, bổ sung thêm 3 yếu tố tập trung vào dịch vụ là People (Con người), Process (Quy trình), và Physical Evidence (Cơ sở vật chất).
+•	Mô hình 4Cs (Kinh tế Số): Chuyển trọng tâm từ doanh nghiệp sang khách hàng trong kỷ nguyên số.
+2. Phân tích Mô hình 4Cs:
+Mô hình 4Cs phản ánh sự thay đổi căn bản trong cách doanh nghiệp tương tác với thị trường:
+Yếu tố	Giải thích
+Co-creation (Đồng sáng tạo)	Thay vì tự phát triển sản phẩm, doanh nghiệp mời khách hàng tham gia vào quá trình lên ý tưởng và thiết kế. Điều này không chỉ giúp tạo ra sản phẩm phù hợp hơn mà còn cho phép người dùng cá nhân hóa trải nghiệm của họ.
+Currency (Giá linh hoạt)	Thay vì giá cố định, trong thời đại số, giá cả có thể thay đổi linh hoạt như "tiền tệ", dao động tùy theo nhu-cầu thị trường, hành vi mua sắm của từng khách hàng, giúp doanh nghiệp tối ưu hóa lợi nhuận.
+Communal Activation (Kích hoạt cộng đồng)	Kênh phân phối mạnh nhất không còn là các kênh truyền thống mà là kênh ngang hàng trong cộng đồng. Doanh nghiệp tận dụng sức mạnh của cộng đồng để phân phối sản phẩm, dịch vụ (như kinh tế chia sẻ).
+Conversation (Đối thoại)	Truyền thông không còn là một chiều từ doanh nghiệp đến khách hàng. Sự phát triển của mạng xã hội cho phép tạo ra các cuộc đối thoại hai chiều, nơi khách hàng có thể hỏi đáp, đánh giá và tương tác trực tiếp với thương hiệu.
+10.3. Các Công cụ và Kênh Marketing Trực tuyến
+1. Quảng cáo Trực tuyến:
+•	Các hình thức hiển thị:
+o	Banner: Ô quảng cáo hình chữ nhật được đặt trên các trang web.
+o	Pop-up/Pop-under: Quảng cáo xuất hiện trong một cửa sổ mới, phía trên (pop-up) hoặc phía dưới (pop-under) cửa sổ trình duyệt hiện tại.
+o	Quảng cáo trung gian (Interstitials): Một trang quảng cáo toàn màn hình xuất hiện trong thời gian chờ tải nội dung chính.
+•	Các thuật ngữ đo lường hiệu quả:
+o	CPM (Cost Per Mille): Chi phí cho mỗi 1000 lần hiển thị quảng cáo.
+o	CPC (Cost Per Click): Chi phí cho mỗi lượt nhấp chuột vào quảng cáo.
+o	CTR (Click-Through Rate): Tỷ lệ phần trăm giữa số lượt nhấp và số lần hiển thị.
+o	CPA (Cost Per Action): Chi phí cho mỗi hành động cụ thể của người dùng (ví dụ: điền form, đăng ký).
+o	CPO (Cost Per Order): Chi phí để có được một đơn hàng.
+o	CPS (Cost Per Sale): Chi phí để tạo ra một đơn hàng đã hoàn tất thanh toán.
+2. Các Kênh Tiếp thị Khác:
+•	Marketing liên kết (Affiliate marketing): Doanh nghiệp trả hoa hồng cho các đối tác (affiliates) khi họ giới thiệu khách hàng và tạo ra doanh số.
+•	Email marketing: Gửi thông tin quảng cáo, khuyến mãi, chăm sóc khách hàng qua email. Cần lưu ý tuân thủ quy tắc Opt-in (khách hàng đồng ý nhận email) để tránh bị coi là spam.
+•	Marketing lan tỏa (Viral marketing): Tạo ra những nội dung độc đáo, hấp dẫn để cộng đồng tự nguyện chia sẻ và lan truyền.
+•	Tiếp thị trên Công cụ Tìm kiếm:
+o	SEO (Search Engine Optimization - Tối ưu hóa Công cụ Tìm kiếm): Là tập hợp các giải pháp kỹ thuật và nội dung nhằm nâng cao thứ hạng của một website trên trang kết quả của các công cụ tìm kiếm một cách tự nhiên (organic), không phải trả phí cho mỗi lượt truy cập.
+o	SEM (Search Engine Marketing - Marketing trên Công cụ Tìm kiếm): Là một lĩnh vực rộng hơn, bao gồm tất cả các hoạt động nhằm tăng cường sự hiện diện của website trên trang kết quả tìm kiếm. SEM bao gồm cả SEO (các nỗ lực organic) và quảng cáo trả phí (như các chiến dịch Pay-Per-Click - PPC).
+•	SMO (Social Media Optimization - Tối ưu hóa Mạng xã hội): Tối ưu hóa sự hiện diện và nội dung của thương hiệu trên các nền tảng mạng xã hội để tăng tương tác và nhận diện.
+•	Content marketing: Tạo và phân phối các nội dung có giá trị, liên quan để thu hút và giữ chân đối tượng mục tiêu.
+•	Landing page: Một trang web đơn được thiết kế chuyên biệt để phục vụ một mục tiêu marketing cụ thể (ví dụ: thu thập thông tin khách hàng, bán một sản phẩm).
+10.4. Các Chiến lược Nuôi dưỡng Khách hàng
+Để chuyển đổi một người lạ thành khách hàng trung thành, doanh nghiệp cần có các chiến lược nuôi dưỡng khách hàng qua từng giai đoạn.
+•	Mô hình AIDA: Mô tả 4 giai đoạn tâm lý của khách hàng:
+1.	Awareness (Nhận biết): Gây chú ý để khách hàng biết đến sự tồn tại của thương hiệu/sản phẩm.
+2.	Interest (Thích thú): Tạo ra sự quan tâm, hứng thú đối với sản phẩm.
+3.	Desire (Mong muốn): Khơi gợi mong muốn sở hữu sản phẩm.
+4.	Action (Hành động): Kêu gọi khách hàng thực hiện hành động mua hàng.
+•	Mô hình AISAS: Là phiên bản cập nhật của AIDA trong thời đại số:
+1.	Attention (Chú ý)
+2.	Interest (Thích thú)
+3.	Search (Tìm kiếm): Khách hàng chủ động tìm kiếm thông tin về sản phẩm.
+4.	Action (Hành động)
+5.	Share (Chia sẻ): Sau khi mua, khách hàng chia sẻ trải nghiệm của họ trên mạng.
+•	Chiến lược Phễu (Funnel): Mô hình hóa hành trình của khách hàng từ lúc bắt đầu biết đến thương hiệu (miệng phễu rộng) cho đến khi trở thành khách hàng trung thành (đáy phễu hẹp), giúp doanh nghiệp có chiến lược tiếp cận phù hợp ở từng giai đoạn.
+•	Mô hình OMNI channel: Như đã được thảo luận trong Chương 5, chiến lược OMNI channel không chỉ là một mô hình bán lẻ mà còn là nền tảng của quản trị quan hệ khách hàng hiện đại. Việc tạo ra một trải nghiệm liền mạch và đồng nhất trên tất cả các kênh (website, mạng xã hội, cửa hàng) là chiến lược tối quan trọng để nuôi dưỡng và giữ chân khách hàng.
+10.5. Thuật ngữ Chuyên ngành
+Thuật ngữ	Giải thích ngắn gọn
+AISAS, AIDA	Các mô hình mô tả hành trình tâm lý của khách hàng.
+OMNI channel	Chiến lược bán hàng đa kênh, tạo trải nghiệm liền mạch.
+SEO	Tối ưu hóa công cụ tìm kiếm để tăng thứ hạng tự nhiên.
+SEM	Marketing trên công cụ tìm kiếm, bao gồm cả SEO và quảng cáo trả phí.
+Affiliate marketing	Mô hình tiếp thị liên kết, trả hoa hồng cho đối tác giới thiệu.
+Content marketing	Tạo và phân phối nội dung có giá trị để thu hút khách hàng.
+Landing page	Trang web đơn được thiết kế cho một chiến dịch marketing cụ thể.
+CTR, CPC, CPA	Các chỉ số đo lường hiệu quả quảng cáo: Tỷ lệ nhấp, Chi phí mỗi lượt nhấp, Chi phí mỗi hành động.
+-------------------------------------------------------------------------------- 
