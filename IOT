@@ -1,0 +1,1120 @@
+CHƯƠNG I: GIỚI THIỆU
+Theo EU: IoT là cơ sở hạ tầng mạng toàn cầu,
+liên kết các đối tượng vật lý và ảo thông qua việc
+khai thác khả năng thu thập dữ liệu và giao tiếp
+
+Theo ITU (International Telecommunication Union):  IoT là một cơ sở hạ tầng toàn cầu cho 
+xã hội thông tin, cho phép các dịch vụ tiên tiến 
+bằng cách liên kết các vật thể (vật lý hoặc ảo) dựa 
+trên các công nghệ thông tin và truyền thông hiện 
+có và tương lai. [ITU-T Y.2060]
+
+Theo IETF ((Internet Engineering Task Force): IoT là một mạng lưới toàn cầu 
+gồm các đối tượng được kết nối với nhau, 
+có khả năng định danh duy nhất, dựa trên 
+các giao thức truyền thông tiêu chuẩn.
+
+Theo IEEE (Institute of Electrical and Electronics Engineers): IoT là một mạng lưới các đối 
+tượng, mỗi đối tượng được nhúng cảm biến 
+và kết nối với Internet
+
+Theo WSIS 2005 (World Summit on the Information Society): 
+Bằng cách nhúng các thiết bị truyền tín hiệu di động tầm 
+ngắn vào nhiều thiết bị và đồ vật hàng ngày, tạo ra các hình 
+thức giao tiếp mới giữa con người và thiết bị, cũng như giữa 
+các thiết bị với nhau.
+
+Theo Gartner: IoT là mạng lưới các đối tượng vật lý có chứa 
+công nghệ nhúng để tương tác với các trạng thái bên trong 
+của chúng hoặc môi trường bên ngoài.
+
+Theo Kevin Ashton(Người đầu tiên giới thiệu thuật ngữ IoT): IoT là khái niệm sử dụng cảm biến để 
+kết nối thế giới vật lý với thế giới số, cho phép hệ thống máy 
+tính hiểu và phản ứng với môi trường.
+
+Theo IoTAgenda: IoT là một hệ thống các thiết bị máy tính, 
+máy cơ khí và thiết bị số, các vật thể, động vật hoặc con 
+người có liên quan với nhau được cung cấp mã định danh 
+duy nhất (UID) và có khả năng truyền dữ liệu qua mạng mà 
+không cần tương tác giữa con người với nhau hoặc giữa con 
+người với máy tính.
+
+Theo Forbes: IoT là một khái niệm kết nối bất kỳ thiết bị nào 
+có công tắc bật/tắt với Internet (và/hoặc với nhau), từ điện 
+thoại di động, máy pha cà phê, máy giặt, tai nghe, đèn, thiết 
+bị đeo tay đến các thiết bị phức tạp hơn như động cơ phản 
+lực hoặc giàn khoan dầu.
+
+Theo IoT Association: IoT là mạng lưới các thiết bị vật lý 
+được kết nối với Internet, cho phép thu thập và trao đổi dữ 
+liệu mà không cần sự can thiệp của con người.
+
+Theo Cisco Systems: IoT mô tả mạng lưới gồm hàng tỷ đối 
+tượng vật lý trên thế giới, được kết nối với nhau thông qua 
+Internet và có khả năng chia sẻ dữ liệu.
+
+MỘT SỐ MỐC THỜI GIAN
+- Những năm 1970: Ý tưởng về các thiết bị được kết nối khi đó được gọi là “pervasive computing – điện toán lan tỏa”.
+- Đầu những năm 1980: Thiết bị IoT đầu tiên trên thế giới được phát minh tại Đại học Carnegie Mellon. Một nhóm sinh viên đã nghĩ ra một cách để đảm bảo máy bán hàng tự động Coca-Cola trong khuôn viên trường sẽ báo cáo nội dung của nó thông qua mạng để giúp họ không phải ghé thăm máy nếu máy hết đồ uống. Họ lắp đặt các công tắc vi mô vào máy để báo cáo có bao nhiêu lon Coke và chúng có lạnh hay không.
+➢ 1990: Máy nướng bánh mì được cho là đồ vật đầu tiên được kết nối
+internet.
+- 1991: Một nhóm sinh viên tại Đại học Cambridge đã sử dụng nguyên mẫu máy ảnh web đầu tiên để theo dõi lượng cà phê có trong bình cà phê trong phòng thí nghiệm máy tính của họ. Họ đã làm điều này bằng cách lập trình cho web camera để chụp ảnh bình cà phê ba lần một phút. Máy ảnh đã gửi hình ảnh đến máy tính cục bộ để người dùng có thể kiểm tra xem có cà phê hay không.
+➢ 1999: Thuật ngữ “internet of things” được đề xuất bởi Kevin Ashton khi
+thuyết trình về một hệ thống cảm biến và nhãn nhận dạng qua tần số radio
+(RFID) gắn trên hàng hóa để quản lý chuỗi cung ứng.
+➢ 2000: LG giới thiệu chiếc tủ lạnh có kết nối internet đầu tiên trên thế giới
+➢ 2008: Hội nghị quốc tế đầu tiên về IoT được tổ chức tại Zurich, Thụy Sĩ.
+➢ 2009: Theo Cisco, đây là thời điểm mà mạng internet vạn vật thực sự được
+khai sinh, khi số lượng thiết bị được kết nối internet vượt dân số thế giới.
+- 2010: Thuật ngữ Internet of Things bắt đầu được chú ý. Người ta biết rằng dịch vụ StreetView của Google không chỉ tạo ra những bức ảnh 360 độ mà còn lưu trữ dữ liệu về mạng Wifi của mọi người. Nó dẫn đến một cuộc tranh luận về việc liệu Google có kế hoạch không chỉ lập chỉ mục internet mà còn cả thế giới vật chất hay không. Cùng năm đó, chính phủ Trung Quốc tuyên bố rằng Internet of Things sẽ là ưu tiên chiến lược trong Kế hoạch 5 năm của nước này.
+- 2011: Gartner, công ty nghiên cứu thị trường đã phát minh ra “hype-cycle for emerging technologies – chu kỳ cường điệu cho các công nghệ mới nổi”, đã đưa Internet of Things vào danh sách của mình như một hiện tượng mới.
+➢ 2012: Hội nghị Internet Châu Âu diễn ra với chủ đề “Internet of Things”.
+- 2014: Google thông báo sẽ mua Nest với giá 3,2 tỷ USD, trong một thỏa thuận giúp thị trường đại chúng nhận thức được Internet of Things. Triển lãm Điện tử Tiêu dùng (CES) tại Las Vegas được tổ chức cùng năm với Internet of Things làm chủ đề sự kiện.
+- Giữa/cuối những năm 2010: Trong suốt giai đoạn này, các thiết bị có kết nối Wifi và 3G/4G tích hợp trở nên nhỏ hơn, mạnh hơn và sản xuất rẻ hơn. Điều này làm tăng sự phát triển của IoT. 
+➢ 2021: Ước tính có hơn 46 tỷ thiết bị được kết nối trên Internet.
+
+CÁCH THỨC HOẠT ĐỘNG
+1. Thu thập dữ liệu:
+2. Kết nối:
+3. Xử lý dữ liệu:
+4. Hành động/ Ra quyết định:
+
+MỘT SỐ ĐẶC ĐIỂM CỦA IOT
+➢Khả năng định danh duy nhất
+➢Kết nối liên tục
+➢Tính tự động.
+➢Tính tương tác
+➢Đa dạng thiết bị
+➢Tính mở rộng
+➢Thu thập và phân tích dữ liệu
+➢Tính an toàn và bảo mật
+➢Ứng dụng đa dạng
+
+ MỘT SỐ VẤN ĐỀ
+ Tính khả dụng 
+ Độ tin cậy
+ Tính di động
+ Hiệu suất: Các chỉ số đánh giá hiệu suất bao gồm:
+    Tốc độ xử lý
+    Tốc độ truyền thông
+    Chi phí
+ Sự quản lý
+ Khả năng mở rộng
+ Khả năng tương tác
+ Bảo mật và quyền riêng tư
+
+MỘT SỐ THÁCH THỨC
+ Các lỗ hổng bảo mật (quyền riêng tư, phá hoại, từ chối 
+dịch vụ)
+ Các vấn đề pháp lý
+ Cơ sở hạ tầng mạng, triển khai trên các hạ tầng cũ đã có
+ Nhiều chuẩn công nghệ khác nhau, thiếu sự chuẩn hóa 
+ Nguồn năng lượng cho các thiết bị, cảm biến duy trì hoạt 
+động lâu dài
+
+MỘT SỐ LĨNH VỰC ỨNG DỤNG CỦA IOT (INTERNET OF THINGS)
+
+1. Smart Home (Nhà thông minh)
+- Điều khiển thiết bị từ xa: điều hòa, đèn, bình nóng lạnh, cửa nhà,...
+- Tự động hóa sinh hoạt, tiết kiệm thời gian và năng lượng.
+- Ứng dụng IoT phổ biến và phát triển mạnh.
+- Chi phí đầu tư ban đầu lớn nhưng giúp tối ưu cuộc sống.
+
+2. Thiết bị đeo thông minh
+- Bao gồm: tai nghe, kính thông minh, vòng tay, balo thông minh,...
+- Tích hợp cảm biến và phần mềm thu thập dữ liệu người dùng.
+- Theo dõi sức khỏe, hoạt động thể chất và giải trí.
+- Yêu cầu: công suất thấp, kích thước nhỏ, tính thẩm mỹ cao.
+- Các công ty lớn đầu tư mạnh: Google, Samsung,...
+
+3. Ô tô kết nối và bãi đỗ xe thông minh
+- Cảm biến phát hiện chỗ đỗ còn trống.
+- Dữ liệu truyền qua mạng LPWA đến ứng dụng/web.
+- Người dùng được hướng dẫn đến bãi đỗ gần nhất.
+- Hệ thống có thể tự động tính phí đỗ xe.
+- Giúp giám sát và quản lí bãi đỗ theo thời gian thực.
+
+4. IoT trong công nghiệp và sản xuất
+a) Kệ bán lẻ thông minh
+- Giám sát tồn kho và hành vi khách hàng từ xa.
+- Hỗ trợ quảng cáo kích thích mua sắm.
+- Giảm chi phí nghiên cứu thị trường và quản lí kho.
+
+b) Máy bán hàng tự động thông minh
+- Hoạt động 24/7.
+- Thu thập và phân tích dữ liệu thời gian thực.
+- Tự động quản lí và vận hành thiết bị.
+
+c) Máy đóng gói thông minh
+- Kết nối dữ liệu và điện toán đám mây.
+- Hỗ trợ bảo trì tiên đoán, giảm lỗi sản xuất.
+- Tăng khả năng giám sát và điều khiển từ xa.
+
+d) Giám sát máy bơm thông minh
+- Theo dõi tài sản từ xa bằng cảm biến và đám mây.
+- Ứng dụng trong nhà máy điện, xử lí nước, hóa chất,...
+- Tự động cảnh báo sự cố và hỗ trợ bảo trì.
+
+5. Smart City (Thành phố thông minh)
+- Ứng dụng trong giao thông, môi trường, năng lượng, an ninh,...
+- Giải quyết ô nhiễm, ùn tắc giao thông và thiếu năng lượng.
+- Ví dụ: thùng rác thông minh gửi cảnh báo khi đầy.
+- Hỗ trợ tìm cây xăng, siêu thị, bãi xe qua ứng dụng.
+- Cảm biến điện giúp phát hiện nhanh sự cố hệ thống.
+
+6. Ứng dụng IoT trong giáo dục
+a) Tương tác học tập
+- Kết nối bài giảng với video, hình ảnh, tài liệu trực tuyến.
+- Tăng khả năng tự học và sáng tạo của học sinh.
+- Học sinh có thể học theo tốc độ riêng.
+- Giáo viên tập trung nhiều hơn vào nội dung giảng dạy.
+
+b) An ninh giáo dục
+- Theo dõi học sinh bằng công nghệ định vị 3D.
+- Giám sát vị trí và hỗ trợ cảnh báo khi cần thiết.
+
+c) Các ứng dụng mới
+- Sách giáo khoa 3D, trò chơi giáo dục, bài giảng điện tử.
+- Thiết bị di động và máy tính bảng được sử dụng rộng rãi.
+- Sách điện tử giúp mang theo “thư viện”.
+- Google Apps hỗ trợ chia sẻ tài liệu trực tuyến.
+
+7. Ứng dụng trong xử lí rác thải
+- Cảm biến theo dõi mức đầy của thùng rác.
+- Tối ưu hóa tuyến đường thu gom rác.
+- Giảm chi phí, thời gian và nhiên liệu.
+- Ví dụ: SmartBin hỗ trợ công ty Corio tại Úc.
+
+8. Ứng dụng trong chăn nuôi và trồng trọt
+a) Chăn nuôi
+- Gắn cảm biến vào vật nuôi để theo dõi sức khỏe, nhiệt độ, thức ăn,...
+- Theo dõi vị trí, chống thất lạc và trộm cắp.
+- Kiểm soát chất lượng và sản lượng sữa.
+- Giảm sức lao động và tăng hiệu quả chăn nuôi.
+
+b) Trồng trọt
+- Theo dõi độ ẩm, dinh dưỡng đất, lượng phân bón,...
+- Phát hiện sớm sâu bệnh và kiểm soát lây lan.
+- Kiểm soát lượng thuốc bảo vệ thực vật.
+- Máy gặt thông minh tích hợp GPS, GPRS/3G.
+- Tăng năng suất và giảm chi phí sản xuất.
+
+9. Ứng dụng trong Logistic
+- Quản lí vận tải, hàng hóa và nhân sự hiệu quả hơn.
+- Theo dõi chất lượng lô hàng và quy trình vận hành.
+- Cảm biến nhiên liệu giúp kiểm soát tiêu hao và chống thất thoát.
+- Kiểm soát trọng tải xe, đảm bảo an toàn giao thông.
+- Tối ưu hóa chi phí vận hành doanh nghiệp.
+
+10. Thiết bị vận tải tiên tiến áp dụng IoT
+- Xe vận chuyển hàng tự động trong kho.
+- Xe nâng thông minh có cảm biến chống va chạm.
+- Xe tải thông minh kiểm soát nhiệt độ và liên kết xe.
+- Máy bay không người lái và định vị container chính xác.
+
+11. IoT trong chăm sóc sức khỏe
+- Thiết bị y tế thông minh kết nối internet.
+- Theo dõi và phân tích sức khỏe người dùng.
+- Hỗ trợ phòng chống bệnh tật.
+- Mang lại tiềm năng lớn cho ngành y tế và sản xuất thiết bị.
+
+MỘT SỐ VẤN ĐỀ BẢO MẬT VÀ THÁCH THỨC CỦA IOT
+
+1. Các vấn đề bảo mật IoT
+- Thiết bị IoT tồn tại nhiều lỗ hổng bảo mật hơn máy tính truyền thống.
+- Nguy cơ:
+  + Chiếm quyền camera, nhà thông minh.
+  + Mất kiểm soát hệ thống giao thông, dây chuyền sản xuất.
+  + Đánh cắp thông tin ngân hàng, đột nhập nhà ở.
+- Ví dụ:
+  + Botnet Mirai (2016) kiểm soát hơn 100.000 thiết bị IoT để tấn công DDoS.
+  + Khai thác lỗ hổng mật khẩu và tên người dùng.
+
+2. Tại sao cần bảo mật IoT?
+- Hệ thống IoT có lượng dữ liệu rất lớn và quan trọng.
+- Nếu không bảo mật:
+  + Dữ liệu dễ bị đánh cắp, kiểm soát.
+  + Ảnh hưởng nghiêm trọng đến hoạt động sản xuất, kinh doanh.
+- Bảo mật giúp:
+  + Giảm lỗ hổng an ninh.
+  + Đảm bảo an toàn dữ liệu.
+  + Tăng hiệu suất hoạt động hệ thống IoT.
+- Khó khăn:
+  + Thiết bị IoT hạn chế hiệu năng, pin và bộ nhớ.
+  + Các cơ chế bảo mật truyền thống (IPSec, PKI, Diffie-Hellman) yêu cầu tính toán lớn.
+  + Thiếu đồng bộ giao thức và hạ tầng giữa các nhà sản xuất.
+
+3. Bảo mật thiết bị IoT
+- Hacker có thể tạo botnet từ thiết bị IoT để tấn công DDoS.
+- Hacker chỉ cần truy cập bộ điều khiển để thay đổi cấu hình và trạng thái thiết bị.
+- Phương pháp bảo mật:
+  + Bảo mật vật lý.
+  + Lưu trữ dữ liệu an toàn.
+  + Bảo mật chip.
+  + Khởi động an toàn.
+  + Xác thực và nhận dạng thiết bị.
+
+4. Bảo mật truyền thông
+- Dữ liệu IoT truyền qua:
+  + WiFi, Ethernet, IPv6, MQTT, CoAP,...
+- Nguy cơ:
+  + Tấn công trung gian (Man-in-the-Middle).
+  + Đánh cắp dữ liệu.
+  + Tấn công hệ thống giao thông, camera giám sát, nhà thông minh.
+- Nếu hệ thống công nghiệp hoặc giao thông bị tấn công có thể ảnh hưởng diện rộng.
+- Phương pháp bảo mật:
+  + Kiểm soát truy cập.
+  + Tường lửa.
+  + IDS, IPS.
+  + Mã hóa IPSec, SSL.
+  + Chip mã hóa bảo mật.
+
+5. Một số giải pháp bảo mật khác
+- Hạn chế quyền truy cập của thiết bị kết nối.
+- Sử dụng IP bảo mật, tránh truy cập trực tiếp từ Internet công cộng.
+- Theo dõi và cập nhật chính sách an ninh mạng thường xuyên.
+- Đảm bảo các hệ thống kết nối tuân thủ tiêu chuẩn an ninh.
+- Lưu trữ dữ liệu quan trọng an toàn trên nền tảng đám mây.
+- Xác minh tính toàn vẹn của ứng dụng.
+
+6. Một số thách thức của IoT
+a) Lỗ hổng bảo mật
+- Nguy cơ phá hoại, từ chối dịch vụ, xâm phạm quyền riêng tư.
+- Ví dụ:
+  + Thay đổi chất khử trùng nhà máy nước.
+  + Dừng hệ thống làm mát nhà máy điện hạt nhân.
+
+b) Vấn đề pháp lý
+- Liên quan đến:
+  + Thiết bị y tế.
+  + Ngân hàng, bảo hiểm.
+  + Dược phẩm, thực phẩm.
+- Làm tăng thời gian và chi phí đưa sản phẩm ra thị trường.
+
+c) Cơ sở hạ tầng mạng
+- Độ trễ mạng đám mây khoảng 200ms trở lên.
+- Không phù hợp cho hệ thống cần phản hồi tức thời như an ninh.
+
+d) Thiếu kiến trúc và tiêu chuẩn chung
+- Hệ thống IoT bị phân mảnh.
+- Nhiều giao thức và nền tảng khác nhau.
+- Nguyên nhân:
+  + Lo ngại bảo mật.
+  + Cạnh tranh thị trường.
+  + Thiếu định hướng chung.
+
+e) Khả năng mở rộng
+- Khi số lượng thiết bị tăng:
+  + Tăng băng thông dữ liệu.
+  + Tăng thời gian xử lý và xác minh giao dịch.
+
+f) Hạn chế của cảm biến
+- Cảm biến hiện tại khó hoạt động hiệu quả trong môi trường phức tạp, đông đúc và nhiễu.
+- Giải pháp tương lai:
+  + Ứng dụng logic mờ và AI.
+
+g) Nguồn điện
+- Thiết bị IoT phụ thuộc pin hoặc điện lưới.
+- Thời lượng pin còn hạn chế.
+- Nhu cầu:
+  + Truyền điện không dây.
+  + Pin hoạt động lâu dài.
+
+h) Vấn đề không gian và thời gian
+- IoT yêu cầu xác định vị trí địa lý chính xác.
+- Khối lượng dữ liệu lớn gây khó khăn xử lý thời gian thực.
+- Dễ phát sinh dữ liệu dư thừa.
+
+7. Thách thức triển khai IoT tại Việt Nam
+a) Chi phí đầu tư lớn
+- Bao gồm:
+  + Chi phí hạ tầng.
+  + Chi phí kết nối dữ liệu.
+  + Chi phí duy trì hệ thống.
+- Các sự cố mạng và lỗi phần mềm làm tăng chi phí vận hành.
+
+b) Thiếu tiêu chuẩn chung
+- Nhiều giao thức kết nối khác nhau.
+- Hạ tầng IoT tại Việt Nam chưa đồng bộ.
+- Dữ liệu có thể bị trễ khi truyền tải.
+
+c) Khó thay thế thiết bị lỗi thời
+- Nhiều thiết bị cũ khó tích hợp với hệ thống IoT hiện đại.
+- Cần xây dựng nền tảng IoT linh hoạt và tương thích đa nền tảng.
+
+
+CHƯƠNG II: CẢM BIẾN
+2.1. SENSOR VÀ ACTUATOR
+Cảm biến (Sensor) IoT là thiết bị quan sát một hoặc nhiều 
+thuộc tính của một thực thể vật lý và chuyển đổi các thuộc 
+tính đó thành thông tin.
+ Đầu ra của cảm biến có thể là tín hiệu tương tự hoặc là tín 
+hiệu số
+Cơ cấu chấp hành (Actuator) (bộ truyền động) là thiết bị có 
+thể thay đổi một hoặc nhiều thuộc tính của một thực thể vật lý 
+để đáp ứng với thông tin nhận được
+
+MỘT SỐ HIỆU ỨNG ĐỂ CHẾ TẠO SENSOR
+1. HIỆU ỨNG HỎA ĐIỆN ĐO BỨC XẠ ÁNH SÁNG: Khi tinh thể hấp thụ ánh sáng, nó thay đổi nhiệt độ dẫn đến phân cực điện
+2. HIỆU ỨNG ÁP ĐIỆN ĐO LỰC, ÁP SUẤT, GIA TỐC: Khi tác động 1 lực lên vật làm bằng chất áp điện (thạch anh,..) nó sẽ bị biến dạng 
+và làm xuất hiện trên 2 mặt vật một lượng điện tích bằng nhau, trái dấu
+3. HIỆU ỨNG CẢM ỨNG ĐIỆN TỪ ĐO TỐC ĐỘ DI CHUYỂN: Khi một thanh dẫn di chuyển trong từ trường, tạo ra
+một sức điện động tỉ lệ với tốc độ
+4. HIỆU ỨNG QUANG ĐIỆN ĐO CẢM BIẾN QUANG: Khi vật liệu chịu bức xạ AS dẫn đến giải phóng điện tích tự do
+5. HIỆU ỨNG HALL ĐO VỊ TRỊ CỦA VẬT TRONG KHÔNG GIAN: Khi một tấm mỏng dẫn điện cần liên kết cơ học với thanh nam châm
+
+PHÂN LOẠI CẢM BIẾN
+1. Theo nguyên lý chuyển đổi giữa đáp ứng và kích thích:
+Hiện tượng vật lý: Nhiệt điện, Quang điện, Quang từ, Điện từ, Quang đàn hồi, Từ điện, Nhiệt từ
+Hiện tượng Hoá học: Biến đổi hoá học, Biến đổi điện hoá, Phân tích phổ
+Sinh học: Biến đổi sinh hoá, Biến đổi vật lý, Hiệu ứng trên cơ thể sống
+2. Theo dạng kích thích:
+Âm thanh: - Biên pha, phân cực - Phổ - Tốc độ truyền sóng
+Điện: - Điện tích, dòng điện - Điện thế, điện áp - Điện trường (biên, pha, phân cực, phổ) - Điện dẫn, hằng số điện môi ...
+Từ: - Từ trường (biên, pha, phân cực, phổ) - Từ thông, cường độ từ trường - Độ từ thẩm
+Quang: - Biên, pha, phân cực, phổ - Tốc độ truyền - Hệ số phát xạ, khúc xạ - Hệ số hấp thụ, hệ số bức xạ
+Cơ: - Vị trí - Lực, áp suất - Gia tốc, vận tốc - Ứng suất, độ cứng - Mô men - Khối lượng, tỉ trọng - Vận tốc chất lưu, độ nhớt
+Nhiệt: - Nhiệt độ - Thông lượng - Nhiệt dung, tỉ nhiệt
+Bức xạ: - Kiểu - Năng lượng - Cường độ ..
+3. Theo tính năng các bộ cảm biến: 
+- Độ nhạy - Độ chính xác - Độ phân
+giải - Độ chọn lọc - Độ tuyến tính 
+Công suất tiêu thụ - Dải tần - Khả năng quá tải - Tốc độ đáp ứng - Độ ổn
+định - Tuổi thọ - Điều kiện môi trường 
+Kích thước, trọng lượng- Độ trễ
+4. Theo phạm vi sử dụng các bộ cảm biến:
+- Công nghiệp- Nghiên cứu khoa học- Môi trường, khí tượng- Thông tin, viễn thông- Nông nghiệp- Dân dụng- Giao thông- Vũ trụ- Quân sự
+5. Theo thông số của mô hình mạch thay thế:
++ Cảm biến tích cực có đầu ra là nguồn áp hoặc nguồn dòng.(Chế tạo dựa trên các hiệu ứng vật lý biến đổi trực tiếp năng lượng (nhiệt, cơ, bức xạ) thành năng lượng điện)
++ Cảm biến thụ động được đặc trưng bằng các thông số R, L, C, M .... tuyến tính hoặc
+phi tuyến(Chế tạo từ một trở kháng (R,L,C) nhạy với đại lượng đo. Đại lượng đo làm thay đổi kích thước hình học hoặc tính chất điện (ρ,μ,ϵ) của vật liệu)
+
+CÁC ĐẶC TRƯNG CƠ BẢN CỦA CẢM BIẾN
+1. Hàm truyền: Cho biết quan hệ giữa đáp ứng và kích thích
+ Quan hệ tuyến tính: y = a + bx
+ Logarit, dạng mũ, …
+2. Độ lớn của tín hiệu vào: Là giá trị lớn nhất của tín hiệu đặt vào bộ cảm biến mà sai 
+số không vượt quá ngưỡng cho phép
+3. Sai số và độ chính xác: Chia làm sai số hệ thống (do nguyên lý, điều kiện sử dụng) và sai số ngẫu nhiên (nhiễu, thay đổi đặc tính thiết bị)
+4. Đường cong chuẩn cảm biến
+ Là đường cong biểu diễu sự phụ thuộc của đại lượng (S) ở đầu ra của 
+cảm biến vào giá trị của đại lượng đo (M) ở đầu vào.
+ Có thể biểu diễn bằng biểu thức đại số dạng S =F(M), hoặc biểu diễn 
+bằng đồ thị.
+Phương pháp chuẩn:
+Chuẩn đơn giản: Chuẩn trực tiếp (dùng mẫu chuẩn) hoặc chuẩn gián tiếp (so sánh với cảm biến khác)
+Chuẩn nhiều lần: Áp dụng khi cảm biến có hiện tượng trễ
+
+Độ phân giải: Sự thay đổi tối thiểu trong hiện tượng mà cảm biến có thể phát hiện 
+5. Độ nhạy của cảm biến: Tỷ số giữa biến thiên đầu ra và biến thiên đầu vào (S=Δs/Δm)
+6. Độ nhanh và thời gian hồi đáp
+7. Giới hạn sử dụng của cảm biến: Gồm vùng làm việc danh định, vùng không gây hư hỏng (biến đổi thuận nghịch) và vùng không phá hủy (biến đổi không thuận nghịch, cần chuẩn lại)
+
+CÁC LOẠI CẢM BIẾN THÔNG DỤNG
+ Cảm biến đo nhiệt độ
+ Nhiệt kế giãn nở:
+  Dùng chất rắn: Dựa trên chênh lệch hệ số giãn nở nhiệt của hai vật liệu (gốm-kim loại hoặc hai kim loại khác nhau)
+  Dùng chất lỏng (Thủy ngân): Dải nhiệt độ làm việc từ −50 đến 600∘C
+Nhiệt kế điện trở: Dựa trên sự thay đổi điện trở suất theo nhiệt độ
+ Điện trở kim loại: Thường dùng Platin (Pt) (độ tinh khiết cao, ổn định, dải đo −200÷1000∘C) và Nikel (Ni) (độ nhạy cao nhưng dễ oxy hóa, <250 độ C)
+ Điện trở bán dẫn (Silic, Oxyt bán dẫn): Có độ nhạy nhiệt rất cao, kích thước nhỏ
+ Cảm biến hồng ngoại
+ Tính chất ánh sáng: Có tính chất sóng và hạt. Bước sóng càng ngắn tính chất hạt càng rõ
+ Đơn vị đo quang:
+  Đơn vị năng lượng: Thông lượng (Φ - Watt), Cường độ (I - W/sr), Độ chói (L - W/sr.m²), Độ rọi (E - W/m²)
+  Đơn vị thị giác (dựa trên độ nhạy mắt người): Lumen (lm), Candela (cd), Lux (lx)
+ Cảm biến đo độ ẩm
+ Cảm biến đo chuyển động
+Nguyên lý đo:
+ Tín hiệu đầu ra là hàm phụ thuộc vị trí của phần tử cảm biến liên kết với vật cần đo
+ Đếm số xung phát ra ứng với mỗi dịch chuyển cơ bản
+Liên kết có thể là cơ học trực tiếp hoặc gián tiếp qua điện trường, từ trường, ánh sáng
+ Cảm biến khí
+ Cảm biến khói
+ Cảm biến áp suất
+ Cảm biến gia tốc
+CẢM BIẾN ĐO LỰC
+ Nguyên lý: Làm cân bằng lực cần đo với một lực đối kháng (thường qua biến dạng vật trung gian). Biến dạng này được đo trực tiếp hoặc gián tiếp qua tính chất điện.
+ Cảm biến áp điện:
+ Hoạt động khi tấm vật liệu áp điện bị biến dạng làm xuất hiện điện tích tỉ lệ với lực tác dụng
+ Vật liệu: Thạch anh (ổn định cao), gốm PZT (nhạy cao, giá rẻ)
+ Cách ghép: Ghép song song (tăng điện dung), ghép nối tiếp (tăng điện áp hở mạch)
+
+KHUẾCH ĐẠI, LỌC VÀ XỬ LÝ TÍN HIỆU:
+Khuếch đại thuật toán (Op-amp):
+ Đây là một loại mạch khuếch đại đa năng, có thể được sử dụng
+trong nhiều ứng dụng khác nhau, bao gồm khuếch đại điện áp,
+khuếch đại dòng điện, và tạo ra các bộ lọc. Trong IoT, op-amp
+thường được dùng để khuếch đại tín hiệu từ các cảm biến như
+nhiệt độ, độ ẩm, ánh sáng, v.v., trước khi chúng được xử lý bởi
+các vi điều khiển hoặc bộ xử lý khác.
+
+Lọc nhiễu cho tín hiệu cảm biến:  Các tín hiệu truyền về theo chuẩn công nghiệp hiện nay 
+chủ yếu là dùng tín hiệu 4-20mA
+
+CHUYỂN ĐỔI ADC, DAC
+1. Chuyển đổi ADC (Analog-to-Digital Converter) giúp kết
+nối thế giới vật lý với thế giới số. ADC có chức năng
+chuyển đổi tín hiệu tương tự – như nhiệt độ, ánh sáng,
+âm thanh, áp suất…– thành tín hiệu số để các vi điều
+khiển hoặc máy tính có thể xử lý.
+Quá trình chuyển đổi ADC gồm ba bước chính: lấy mẫu, lượng tử 
+hóa, mã hóa.
+ ADC được ứng dụng rộng rãi trong các thiết bị IoT như: cảm biến
+nhiệt độ, độ ẩm, ánh sáng trong nông nghiệp thông minh; hệ thống
+giám sát môi trường; thiết bị y tế như máy đo nhịp tim, điện tâm đồ,
+
+2. DAC (Digital-to-Analog Converter) là mạch chuyển đổi dữ
+liệu số thành tín hiệu analog để tương tác với thế giới thực.
+DAC giúp hệ thống số điều khiển các thiết bị vật lý như loa,
+động cơ, van điện tử...
+ Một số ứng dụng của DAC- Thiết bị: điều chỉnh độ sáng đèn, tốc độ quạt, âm lượng loa…- Y tế: điều khiển máy bơm thuốc, máy đo nhịp tim, ...- Nông nghiệp thông minh: điều khiển van nước, hệ thống tưới tiêu 
+tự động, …- Ô tô và robot tự hành: điều khiển động cơ, hệ thống lái, phát âm 
+thanh cảnh báo,…
+Module Chuyển Đổi ADC DAC PCF8591
+
+ THU THẬP VÀ XỬ LÝ DỮ LIỆU CẢM BIẾN
+Nếu không có quá trình xử lý dữ liệu, dữ liệu sẽ tồn tại
+dưới dạng không cấu trúc và không thể hiện thông tin hữu
+ích. Dữ liệu không xử lý có thể gây ra các vấn đề và hậu
+quả sau:
+1. Thất thoát thông tin: Dữ liệu không xử lý thường không thể
+được tận dụng để trích xuất thông tin quan trọng. Thông tin cần
+thiết có thể bị che khuất hoặc mất đi, làm giảm giá trị của dữ liệu.
+2. Khó khăn trong quản lý: Nếu không tổ chức và lưu trữ dữ liệu
+đúng cách, doanh nghiệp sẽ gặp khó khăn trong việc tìm kiếm và
+truy xuất thông tin khi cần. Điều này có thể làm chậm quy trình
+làm việc và ra quyết định.
+3. Khó khăn trong phân tích: Dữ liệu không được biến đổi và 
+chuẩn hóa có thể làm cho việc phân tích và hiểu rõ thông tin trở 
+nên phức tạp và khó khăn.
+4. Khả năng sai sót cao: Dữ liệu không được kiểm tra và làm 
+sạch có thể chứa nhiễu, lỗi hoặc thông tin không chính xác. 
+Điều này có thể dẫn đến việc đưa ra quyết định sai lầm.
+5. Sử dụng không hiệu quả tài nguyên: Dữ liệu không được xử 
+lý có thể làm cho việc sử dụng tài nguyên (như lưu trữ và máy 
+tính) không hiệu quả và tốn kém.
+6. Thiếu thông báo và giao tiếp: Dữ liệu không được tổ chức và
+biểu thị đúng cách có thể làm mất đi khả năng truyền tải thông
+điệp quan trọng đến người sử dụng.
+7. Mất cơ hội: Nếu không được xử lý, dữ liệu không thể cung
+cấp thông tin để tối ưu hóa hoạt động, dự đoán xu hướng, phát
+triển sản phẩm hoặc cải thiện quy trình.
+
+QUÁ TRÌNH XỬ LÝ DỮ LIỆU 
+1. Thu thập dữ liệu: 
+2. Lọc dữ liệu: 
+Loại bỏ dữ liệu không chính xác, không cần thiết hoặc lặp lại.
+3. Biến đổi dữ liệu: 
+Chuyển đổi dữ liệu ban đầu thành định dạng phù hợp để dễ dàng 
+phân tích. Các biến đổi có thể bao gồm việc chuyển đổi đơn vị đo, 
+mã hóa dữ liệu, hoặc làm phẳng cấu trúc dữ liệu.
+4. Tổ chức và lưu trữ:
+5. Phân tích dữ liệu: 
+Áp dụng các kỹ thuật và công cụ phân tích để tìm kiếm mẫu, xu
+hướng và thông tin hữu ích từ dữ liệu. Phân tích dữ liệu có thể bao
+gồm thống kê, khai phá dữ liệu, học máy...
+6. Trình bày kết quả: 
+Trình bày kết quả phân tích dưới dạng biểu đồ, bảng, báo cáo hoặc
+hình ảnh sẽ giúp người sử dụng hiểu rõ hơn về thông tin được trích
+xuất từ dữ liệu. Kết quả có thể được lưu trữ và tiếp tục xử lý, sử
+dụng trong thời gian tiếp theo.
+
+
+
+CHƯƠNG III
+KIẾN TRÚC MẠNG INTERNET OF THINGS
+3.1. IPv6 cho mạng IoT
+1. VAI TRÒ CỦA IPv6
+- IPv4 đã cạn kiệt địa chỉ.(3/2/2011)
+Cisco đã công bố số liệu dự báo số lượng thiết bị hỗ trợ IPv6 tăng từ 6 tỷ vào năm 2017 lên 18,3 tỷ vào năm 2022 
+tỷ lệ ứng dụng IPv6 trong hoạt động Internet tăng theo đường cong hàm mũ, gấp đôi mỗi 9 tháng
+- IPv6 hỗ trợ:
+  + 2^128 địa chỉ.
+  + Kết nối số lượng lớn thiết bị IoT.
+  + Cấu hình dễ dàng.
+  + Bảo mật tốt hơn.
+
+2. ƯU ĐIỂM IPv6
+- KHẢ NĂNG MỞ RỘNG lớn.
+- Giải quyết rào cản kỹ thuật NAT của IPv4
+- Cải thiện về định tuyến
+- Đơn giản hóa dạng thức của header
+- Tự động cấu hình địa chỉ không trạng thái Stateless (SLAAC):o cần DHCP
+- Thủ tục mới cho giao tiếp giữa các Node lân cận trên một đường link:Neighbor Discovery (ND)
+- Hỗ trợ MULTICAST và ANYCAST.
+- Hỗ trợ QoS (CHẤT LƯỢNG DỊCH VỤ).
+- Hỗ trợ TÍNH DI ĐỘNG tốt hơn IPv4.(MIPv6 giảm độ trễ
+ chuyển giao nhờ một số tối ưu hóa trong các cơ chế: phát hiện
+ chuyển động (MD); phát hiện địa chỉ trùng lặp (DAD) và Cập nhật
+ ràng buộc (BU))
+- Bảo mật:  (i) IPSec: IPv6 được thiết kế cho kết nối
+ đầu cuối– đầu cuối; (ii) Bắt buộc sử dụng IPsec cho IPv6 di động
+ để đảm bảo khả năng định tuyến trở lại; (iii) Không gian địa chỉ
+ lớn; (iv) Thủ tục Neighbor Discovery
+- Phiên bản IPv6 có sẵn cho các thiết bị tiêu thụ điện năng thấp
+
+DỊCH VỤ VÀ CLOUD TRONG IoT
+1. CLOUD COMPUTING
+- Lưu trữ và xử lý BIG DATA.
+- Xử lý dữ liệu thời gian thực.
+Một số nền tảng đám mây IoT lớn và phổ biến nhất hiện nay bao gồm Amazon Web Services, GE Predix, Google Cloud IoT, Microsoft Azure IoT Suite, IBM Watson và Salesforce IoT Cloud
+
+3.2. Định tuyến
+Mạng tổn hao năng lượng thấp (LLN) là mạng gồm một hoặc 
+nhiều bộ định tuyến và những thiết bị nhúng bị giới hạn năng 
+lượng, giới hạn bộ nhớ và khả năng xử lý. 
+ Sự kết nối giữa các thành phần trong mạng này có những 
+đặc tính như tỷ lệ mất mát dữ liệu cao, tỷ lệ dữ liệu truyền đi 
+thấp, thiếu ổn định trong việc truyền tải dữ liệu.
+
+RPL (ROUTING PROTOCOL FOR LLN)
+ RPL là giao thức định tuyến cho các mạng tổn hao năng 
+lượng thấp nói chung và mạng cảm biến không dây nói 
+riêng. Các mạng có đặc điểm:
+ Tiêu thụ năng lượng thấp
+ Có khả năng mất mát dữ liệu cao
+ Gồm nhiều thiết bị cảm biến, thường dùng trong môi trường IoT
+
+RPL sử dụng các DAG(Directed Acyclic Graph) trong mạng để định tuyến
+Mọi liên kết giữa các nút trong DAG đều có 
+hướng nhất định, hướng về một DAG 
+ROOT và đảm bảo không tạo ra các vòng lặp trong mạng.
+
+CÁC THÀNH PHẦN TRONG RPL DAG
+ DAG ROOT: nút có chức năng tập trung và xử lý dữ liệu từ 
+các nút khác trong mạng gửi đến. Mọi tuyến liên kết trong 
+DAG đều hướng về và kết thúc tại DAG ROOT.
+ DAG rank: thông số cho biết vị trí tương đối của nút so với 
+DAG ROOT. Những nút có rank càng lớn càng xa DAG 
+ROOT. DAG ROOT luôn có rank bằng 1.
+ DAG parent: Trong cùng một DAG, nút A được gọi là nút cha 
+(parent) của nút B khi A và B có kết nối trực tiếp với nhau và 
+A có rank nhỏ hơn B. Khi đó, nút B được gọi là nút con 
+(children) của nút A.
+ DAG sibling: nút A là ngang cấp (sibling) với nút B trong một 
+DAG nếu chúng có cùng rank trong DAG đó.
+
+Cấu trúc DODAG (Destination Oriented DAGs): Mỗi nút trong mạng xây dựng một cây định
+tuyến hướng về một đích (thường là bộ thu dữ liệu hoặc gateway).
+ Hỗtrợ nhiều loại lưu lượng:
+ Upward traffic: từ thiết bị đến root.
+ Downward traffic: từ root đến thiết bị.
+ Point-to-point traffic: giữa các thiết bị trong mạng.
+
+RPL Instance (Thực thể RPL) là một tập hợp các cấu 
+hình định tuyến riêng biệt trong một mạng RPL. Mỗi 
+instance có thể có:
+ Mục tiêu định tuyến khác nhau: ví dụ tối ưu hóa độ trễ, tiết
+kiệm năng lượng, độ tin cậy…
+ Các tham số hoạt động riêng biệt: như metric, mode of
+operation, các chính sách định tuyến.
+ Một DODAG hoặc nhiều DODAGs: là cấu trúc cây định
+tuyến hướng về một hoặc nhiều nút root.
+ Một số đặc điểm chính của RPL Instance:
+ Instance ID: Mỗi instance được định danh bằng một mã số
+duy nhất gọi là Instance ID.
+ Phân biệt traffic: Cho phép các loại traffic khác nhau (ví dụ:
+dữ liệu cảm biến, điều khiển, cảnh báo…) sử dụng các
+đường định tuyến tối ưu riêng.
+ Quản lý linh hoạt: Một thiết bị có thể tham gia vào nhiều
+RPLInstance cùng lúc nếu cần thiết.
+
+CÁC LOẠI BẢN TIN ĐIỀU KHIỂN TRONG DAG 
+ RPL sử dụng ba loại bản tin điều khiển để quảng bá các 
+thông tin định tuyến trong mạng gồm:
+ DAG Information Soliciation (DIS)
+ DAG Information Object (DIO)
+ Destination Advertisement Object (DAO)
+
+ĐẶC ĐIỂM CỦA RPL
+ Tối ưu hóa năng lượng:
+ Khả năng phục hồi:
+ Sử dụng các hàm mục tiêu (Objective Function):
+Dựa vào độ tin cậy, độ trễ, năng lượng còn lại để chọn tuyến
+đường tốt nhất
+  Có hai loại: 
+Hàm mục tiêu zero (OF0) và Hàm mục tiêu cấp thấp có độ trễ (MRHOF).
+ Hàm OF0 tìm quãng đường ngắn nhất đến nút gốc root. OF0 đánh dấu các 
+nút gần root nhất, đặt thứ tự ưu tiên. Từ đó, chọn ra các nút cha có thứ tự 
+ưu tiên cao nhất. Sử dụng metric là số lượng bước nhảy (hop count).
+
+ Hàm MRHOF(Minimum Rank with Hysteresis Objective Function) sử dụng ETX (Expected Transmission Count – số lần truyền 
+dự kiến) làm metric chính để đánh giá chất lượng tuyến đường. Các bước
+hoạt động:
+  Tính toán Rank: Mỗi nút tính Rank của mình dựa trên Rank của nút cha cộng với
+ giá trị ETX của tuyến đường đến nút cha.
+  So sánh các tuyến đường: Nút sẽ so sánh ETX của các tuyến đường đến root
+ thông qua các nút cha tiềm năng.
+  Áp dụng ngưỡng dao động: chỉ thay đổi nút cha nếu tuyến đường mới tốt hơn
+ đáng kể so với tuyến đường hiện tại (vượt qua ngưỡng này).
+
+3.3. Các kiến trúc mạng
+MÔ HÌNH 3 LỚP
+Lớp 1: Lớp thiết bị
+Bao gồm các cảm biến, thiết bị chấp hành và các bộ điều 
+khiển như vi xử lý/vi điều khiển, PLC, FPGA đến các máy 
+tính nhúng.
+Lớp thiết bị thực hiện đo lường và thu thập dữ liệu các đại 
+lượng vật lý thông qua các cảm biến, điều khiển các thiết 
+bị chấp hành và có thể truyền và nhận dữ liệu từ các thiết 
+bị khác qua mạng.
+Lớp 2: Lớp mạng
+Chức năng lớp mạng xác định các giao thức truyền thông 
+khác nhau được sử dụng cho việc kết nối mạng và thực 
+hiện điện toán biên.
+Lớp mạng bao gồm các thiết bị liên kết mạng như Hub, 
+Switch, Router; các thiết bị chuyển đổi giao thức mạng 
+như Gateways; đến các thiết bị có khả năng lưu trữ, xử lý 
+cục bộ trước khi gửi dữ liệu lên Server trung tâm
+Lớp 3: Lớp ứng dụng
+Đây là trung tâm lưu trữ dữ liệu hay đám mây điện tử.
+Lớp này thực hiện thu nhận dữ liệu từ lớp mạng, lưu trữ, 
+xử lý dữ liệu và ra quyết định dựa trên các thuật toán 
+AI/ML hoặc các công cụ phân tích dữ liệu hiện đại.
+
+MÔ HÌNH 5 LỚP
+1. Lớp Đối tượng (Objects Layer) - "Tầng vật lý"
+ Đây là nơi bắt đầu của mọi dữ liệu.
+ Thành phần: Bao gồm các cảm biến (nhiệt độ, độ ẩm, gia tốc), cơ cấu chấp hành (động cơ, đèn), RFID, và các thiết bị phần cứng.
+ Chức năng: Số hóa các thông số từ môi trường thực.
+ Điểm lưu ý: Một thiết bị có thể chứa nhiều cảm biến (ví dụ: Smartphone tích hợp GPS, con quay hồi chuyển, cảm biến ánh sáng).
+2. Lớp Trừu tượng đối tượng (Object Abstraction Layer) - "Tầng truyền dẫn"
+ Lớp này đóng vai trò là cầu nối đưa dữ liệu từ thế giới thực lên hệ thống xử lý.
+ Công nghệ: Sử dụng các phương thức như WiFi, Bluetooth, ZigBee, 4G/5G, vệ tinh hoặc mạng dây.
+ Chức năng: Chuyển các gói dữ liệu từ lớp 1 đến lớp quản lý dịch vụ thông qua các kênh truyền thông.
+3. Lớp Quản lý dịch vụ (Service Management Layer) - "Tầng Middleware"
+ Đây là lớp cực kỳ quan trọng giúp hệ thống trở nên linh hoạt.
+ Vai trò: Giúp các lập trình viên không phải lo lắng về việc thiết bị đầu cuối là hãng nào hay chạy phần cứng gì (tính không đồng nhất).
+ Chức năng: Xử lý dữ liệu thô, lọc nhiễu, quản lý tên miền/địa chỉ và đưa ra các quyết định trung gian trước khi gửi lên lớp trên.
+4. Lớp Ứng dụng (Application Layer) - "Tầng giao diện người dùng"
+ Lớp này trực tiếp tạo ra giá trị cho người dùng cuối.
+ Thành phần: Các phần mềm ứng dụng như App nhà thông minh, hệ thống theo dõi sức khỏe, quản lý vận tải.
+ Chức năng: Hiển thị dữ liệu trực quan cho khách hàng và thực hiện các yêu cầu cụ thể (ví dụ: nhấn nút trên App để bật điều hòa).
+5. Lớp Quản lý (Business Layer) - "Tầng chiến lược"
+ Đây là "bộ não" điều hành toàn bộ hệ sinh thái IoT của một doanh nghiệp.
+ Chức năng: Phân tích Dữ liệu lớn (Big Data), lập biểu đồ xu hướng, xây dựng mô hình kinh doanh.
+ Trách nhiệm: Đưa ra các quyết định mang tính chiến lược dựa trên dữ liệu tổng hợp. Ví dụ: Từ dữ liệu của hàng ngàn cảm biến điện năng ở lớp 1, lớp 5 sẽ quyết định phương án đầu tư hạ tầng lưới điện mới cho năm sau.
+ Thiết bị: Thường được vận hành trên các máy chủ đám mây (Cloud) hoặc trung tâm dữ liệu cực mạnh.
+
+MÔ HÌNH 7 LỚP
+LỚP 1: THIẾT BỊ VẬT LÝ VÀ BỘ ĐIỀU KHIỂN (PHYSICAL DEVICES & CONTROLLERS)
+ Là các "THINGS" trong IoT.
+ CHỨC NĂNG: Thu thập dữ liệu, chuyển đổi TƯƠNG TỰ SANG SỐ (ADC), tạo dữ liệu và nhận lệnh điều khiển qua mạng.
+ Bao gồm các thiết bị đầu cuối đa dạng (Cảm biến, camera, máy móc...).
+
+LỚP 2: KẾT NỐI (CONNECTIVITY)
+ TRỌNG TÂM: Truyền tải thông tin đáng tin cậy và kịp thời.
+ ĐẶC ĐIỂM: Dựa trên các mạng hiện có, không yêu cầu mạng mới.
+ CHỨC NĂNG: Chuyển mạch, ĐỊNH TUYẾN, chuyển đổi giữa các GIAO THỨC MẠNG khác nhau, bảo mật lớp mạng và phân tích mạng.
+
+LỚP 3: ĐIỆN TOÁN BIÊN (EDGE COMPUTING)
+ MỤC TIÊU: Chuyển đổi luồng dữ liệu mạng thành thông tin phù hợp để lưu trữ (Xử lý dữ liệu sớm nhất và GẦN BIÊN NHẤT).
+ CÁC HOẠT ĐỘNG CHÍNH: Đánh giá dữ liệu (lọc dữ liệu), ĐỊNH DẠNG LẠI dữ liệu, giải mã ngữ cảnh, TÓM TẮT DỮ LIỆU (giảm lưu lượng mạng) và thẩm định ngưỡng/cảnh báo.
+
+LỚP 4: TÍCH LŨY DỮ LIỆU (DATA ACCUMULATION)
+ TRẠNG THÁI DỮ LIỆU: Chuyển đổi dữ liệu từ "Đang chuyển động" (Data in motion) sang "TRẠNG THÁI NGHỈ" (DATA AT REST) trên ổ đĩa/bộ nhớ.
+ CHỨC NĂNG: Xác định dữ liệu nào cần duy trì lâu dài, tổ chức dữ liệu vào hệ thống lưu trữ, kết hợp hoặc tính toán lại dữ liệu.
+ BƯỚC NGOẶT: Chuyển từ xử lý dựa trên sự kiện sang XỬ LÝ DỰA TRÊN TRUY VẤN.
+
+LỚP 5: TRỪU TƯỢNG HÓA (DATA ABSTRACTION)
+ MỤC TIÊU: Hiển thị và lưu trữ dữ liệu giúp phát triển ứng dụng đơn giản và hiệu quả hơn.
+ CHỨC NĂNG: Đối chiếu nhiều ĐỊNH DẠNG DỮ LIỆU từ các nguồn khác nhau (ERP, CRM, IoT), đảm bảo tính nhất quán ngữ nghĩa, PHÂN QUYỀN/XÁC THỰC bảo vệ dữ liệu, và chuẩn hóa dữ liệu để truy cập nhanh.
+ Có thể tách biệt giữa hệ thống DỮ LIỆU LỚN (BIG DATA) và hệ quản trị CSDL QUAN HỆ (RDBMS).
+
+LỚP 6: ỨNG DỤNG (APPLICATION)
+ TRỌNG TÂM: Diễn giải thông tin. Hoạt động với dữ liệu ở trạng thái nghỉ (không nhất thiết phải theo tốc độ mạng).
+ VÍ DỤ: Phần mềm doanh nghiệp (ERP), ứng dụng di động, báo cáo BI (BUSINESS INTELLIGENCE), phân tích dữ liệu để ra quyết định kinh doanh.
+
+LỚP 7: HỢP TÁC VÀ QUY TRÌNH (COLLABORATION & PROCESSES)
+ ĐIỂM KHÁC BIỆT: Bao gồm CON NGƯỜI và các QUY TRÌNH.
+ MỤC TIÊU: Biến thông tin thành HÀNH ĐỘNG.
+ BẢN CHẤT: Trao quyền cho con người làm việc tốt hơn thông qua sự giao tiếp và cộng tác dựa trên dữ liệu IoT. Đây là mức cao nhất, vượt ra ngoài phạm vi của một ứng dụng đơn lẻ.
+
+SÁU THÀNH PHẦN CỐT LÕI CỦA IOT
+A. NHẬN DẠNG (IDENTIFICATION)
+ VAI TRÒ: Đặt tên và khớp dịch vụ với nhu cầu.
+ PHƯƠNG PHÁP: Mã sản phẩm điện tử (EPC) và mã phổ biến (uCode).
+ PHÂN BIỆT: * ID ĐỐI TƯỢNG: Là tên gọi (ví dụ: "T1" cho cảm biến nhiệt độ).
+ ĐỊA CHỈ ĐỐI TƯỢNG: Là địa chỉ trong mạng truyền thông (sử dụng IPv4 hoặc IPv6).
+ CÔNG NGHỆ HỖ TRỢ: 6LoWPAN (nén tiêu đề IPv6 giúp tiết kiệm năng lượng cho mạng không dây).
+
+B. CẢM BIẾN VÀ CƠ CẤU CHẤP HÀNH (SENSING AND ACTUATOR)
+ CẢM BIẾN: Chuyển đổi thuộc tính vật lý thành THÔNG TIN (tín hiệu điện).
+ 3 TÍNH NĂNG: Chỉ nhạy với thông số cần đo, không nhạy với thông số khác, không làm thay đổi hiện tượng đo.
+ 3 THUỘC TÍNH TRỌNG TÂM: PHẠM VI (Max/Min), ĐỘ NHẠY (thay đổi tối thiểu đầu ra), ĐỘ PHÂN GIẢI (thay đổi tối thiểu đầu vào).
+ CƠ CẤU CHẤP HÀNH: Thay đổi thuộc tính vật lý để ĐÁP ỨNG thông tin nhận được (Ví dụ: bật vòi phun nước khi có lửa).
+ THIẾT BỊ THỰC THI: Máy tính bo mạch đơn (SBC) như Arduino Yun, Raspberry Pi, BeagleBone Black.
+
+C. GIAO TIẾP (COMMUNICATION)
+ Kết nối các đối tượng không đồng nhất, yêu cầu NĂNG LƯỢNG THẤP.
+ RFID: Công nghệ đầu tiên cho M2M. Thẻ gồm 3 loại: Chủ động (có pin), Bị động (không pin), Bán chủ động (dùng pin khi cần).
+ NFC: Hoạt động ở băng tần 13,56 MHz, khoảng cách dưới 10 cm.  tốc độ truyền dữ liệu tối đa 424 Kbps
+ UWB: Băng thông cao, năng lượng thấp, khoảng cách ngắn.
+ WiFi sử dụng radio sóng để trao đổi dữ liệu giữa mọi thứ trong phạm vi 100 m
+ BLUETOOTH: Bluetooth 4.1 cung cấp Bluetooth Low Energy (BLE) và kết nối IP cho IoT.
+ LTE-A: dựa trên công nghệ mạng GSM / UMTS, Phiên bản cải tiến của LTE, mở rộng băng thông đến 100 MHz, độ trễ thấp.
+
+D. XỬ LÝ TÍNH TOÁN (COMPUTATION)
+ PHẦN CỨNG ("BỘ NÃO"): Bộ vi điều khiển (MCU), vi xử lý, SOC, FPGA.
+ PHẦN MỀM & ĐÁM MÂY: Nền tảng Cloud giúp xử lý DỮ LIỆU LỚN (BIG DATA) trong thời gian thực.
+
+E. DỊCH VỤ (SERVICES) - Phân thành 4 lớp:
+ DỊCH VỤ ĐỊNH DANH (Identity-related): Cơ bản nhất, xác định đối tượng thực trong thế giới ảo.
+ DỊCH VỤ TỔNG HỢP THÔNG TIN (Information Aggregation): Thu thập và tóm tắt dữ liệu thô.
+ DỊCH VỤ HỢP TÁC - NHẬN THỨC (Collaborative-Aware): Đưa ra quyết định dựa trên dữ liệu đã tổng hợp.
+ DỊCH VỤ PHỔ BIẾN (Ubiquitous): Cung cấp dịch vụ mọi lúc, mọi nơi, cho bất kỳ ai.
+ VÍ DỤ ỨNG DỤNG: Chăm sóc sức khỏe (theo dõi sinh lý), Giao thông thông minh (ITS - gồm 4 thành phần chính: xe, trạm bên đường, trung tâm giám sát, hệ thống bảo mật), Tự động hóa công nghiệp (4 yếu tố: vận chuyển, xử lý, cảm biến, giao tiếp).
+
+F. NGỮ NGHĨA (SEMANTICS)
+ ĐỊNH NGHĨA: Khả năng máy móc tự TRÍCH XUẤT KIẾN THỨC một cách thông minh để đưa ra quyết định đúng.
+ CÔNG NGHỆ HỖ TRỢ: Web ngữ nghĩa (RDF, OWL).
+ ĐỊNH DẠNG EXI (Efficient XML Interchange): Chuyển XML sang dạng NHỊ PHÂN để giảm băng thông, tiết kiệm pin và bộ nhớ.
+
+3.4. Các giao thức truyền thông trong IoT
+4 loại lớn là: Giao thức ứng dụng, giao thức dịch vụ, giao thức cơ sở hạ tầng và những giao thức có ảnh hưởng khác.
+
+A. Giao thức ứng dụng
+MQTT (MESSAGE QUEUING TELEMETRY TRANSPORT)
+được giới thiệu bởi Andy StanfordClark của IBM và Arlen Nipper của Arcom (nay là Eurotech)
+trong 1999 và được chuẩn hóa vào năm 2013 tại OASIS
+ phù hợp với các thiết bị hạn chế tài nguyên sử dụng các liên kết không đáng tin cậy hoặc băng thông thấp
+ Các thông số kỹ thuật cung cấp ba yếu tố: ngữ nghĩa kết nối, định tuyến và điểm cuối.
+ MÔ HÌNH: XUẤT BẢN/ĐĂNG KÝ (PUBLISH/SUBSCRIBE). Chạy trên nền TCP.
+ THÀNH PHẦN: Người xuất bản (Publisher), Người đăng ký (Subscriber) và NHÀ MÔI GIỚI (BROKER).
+ ƯU ĐIỂM: Định tuyến linh hoạt (1-1, 1-nhiều), tiêu đề tin nhắn nhỏ (tiêu đề cố định chỉ 2 BYTE).
+ LOẠI TIN NHẮN: CONNECT (1), CONNACK (2), PUBLISH (3), SUBCRIBE (8)
+
+COAP (CONSTRAINED APPLICATIONS PROTOCOL)
+IETF Constrained RESTful Environments (CoRE) là tổ chức tạo ra CoAP
+CoAP nhằm mục đích cho phép các thiết bị nhỏ bé có khả năng giao tiếp, tính toán 
+và năng lượng thấp có thể sử dụng các tương tác RESTful
+ CoAP truyền tải tài liệu theo mô hình client/server dựa trên
+internet tương tự như HTTP nhưng được thiết kế cho các
+thiết bị ràng buộc.
+ CoAP sử dụng UDP(User Datagram Protocol), không hỗ trợ
+TCP, ngoài ra còn hỗ trợ địa chỉ broadcast và multicast.
+ UDP có thể dễ dàng triển khai trên các vi điều khiển hơn
+TCP nhưng không tích hợp công cụ bảo mật như SSL/TSL.
+ ĐẶC ĐIỂM: Thiết kế theo kiến trúc RESTful, chạy trên nền UDP (mặc định). Thích hợp cho thiết bị tài nguyên hạn chế.
+ CẤU TRÚC: Gồm 2 lớp con là NHẮN TIN (Message) và YÊU CẦU/PHẢN HỒI (Request/Response).
+ LOẠI TIN NHẮN: Có thể xác nhận (CON), Không thể xác nhận (NON), Đặt lại (RST), Xác nhận (ACK).
+ CÔNG NGHỆ CHÍNH: Sử dụng định dạng NHỊ PHÂN (Header cố định 4 byte), hỗ trợ quan sát tài nguyên (Observe), vận chuyển khối (Block-wise),	Khám phá tài nguyên, Tương tác với HTTP, bảo mật bằng DTLS.
+Các trường trong tiêu dề như sau: Ver là phiên bản của CoAP, T là loại giao dịch, OC là số lựa chọn, Code biểu diễn phương thức yêu cầu(1-10) hoặc mã phản hồi(40-255). Ví dụ mã cho GET, POST, PUT, DELETE lần lượt là 1,2,3,4. ID giao dịch ở phần đầu là vật nhận dạng độc nhất cho việc ghép nối phản hồi
+
+XMPP (EXTENSIBLE MESSAGING AND PRESENCE PROTOCOL)
+được phát triển bởi mã nguồn mở Jabber cộng đồng để hỗ trợ một giao thức nhắn tin 
+mở, an toàn, không có thư rác và phi tập trung
+ BẢN CHẤT: Dựa trên ngôn ngữ XML, phi tập trung, hỗ trợ tin nhắn tức thời (IM).
+ CẤU TRÚC: Sử dụng các XML STANZAS (Message, Presence, Iq). Sự hiện diện stanza hiển thị và thông báo cho khách hàng cập nhật trạng thái theo ủy quyền. Iq stanza ghép nối người gửi và người nhận tin nhắn.
+ TỐI ƯU: Sử dụng EXI (Efficient XML Interchange) để nén luồng XML nhằm giảm chi phí mạng
+
+AMQP (Advanced Message Queuing Protocol):
+ MÔ HÌNH: Giao tiếp điểm-điểm và Xuất bản/Đăng ký. Chạy trên TCP.
+ THÀNH PHẦN: Bộ trao đổi (EXCHANGE) và HÀNG ĐỢI TIN NHẮN (Message Queue).
+AMQP định nghĩa một lớp nhắn tin trên đầu phương tiện truyền tải của nó. Khả năng nhắn tin được xử lý trong lớp này
+ LOẠI THÔNG BÁO: tin nhắn và thông điệp
+ ĐẶC ĐIỂM: Đảm bảo gửi tin nhắn (Ít nhất một lần, đúng một lần).
+Tiêu đề ở định dạng này truyền tải các thông số phân phối bao gồm độ bền, mức độ ưu tiên, thời gian tồn tại, người mua đầu tiên và số lượng phân phối.
+Lớp vận chuyển cung cấp các điểm mở rộng cần thiết cho lớp nhắn tin. Trong lớp này, thông tin liên lạc được định hướng theo khung
+Bốn byte đầu tiên hiển thị kích thước khung. DOFF (Data Offset) cho biết vị trí của phần thân bên trong khung. Loại trường cho biết định dạng và mục đích của khung.
+
+5. DDS (Data Distribution Service):
+được phát triển bởi Object Management Group (OMG)
+ ĐẶC ĐIỂM: Kiến trúc KHÔNG MÔI GIỚI (BROKERLESS), tập trung vào dữ liệu, hỗ trợ THỜI GIAN THỰC.
+ QUẢN LÝ: Hỗ trợ 23 CHÍNH SÁCH QoS (Chất lượng dịch vụ).
+ 2 LỚP: Data-Centric PublishSubscribe DCPS (Phân phối dữ liệu) và Data-Local Reconstruction Layer DLRL (Giao diện ứng dụng).
+Năm thực thể có liên quan đến luồng dữ liệu trong DCPS: 
+(1) Publisher phổ biến dữ liệu;
+(2)	DataWriter được ứng dụng sử dụng để tương tác với nhà xuất bản về các giá trị và thay đổi của dữ liệu cụ thể cho một loại nhất định.
+Sự liên kết giữa DataWriter và Publisher chỉ ra rằng ứng dụng sẽ xuất bản dữ liệu được chỉ định trong một định nghĩa bài văn; 
+(3) Subscriber nhận dữ liệu đã xuất bản và cung cấp của họ vào ứng dụng;
+(4)	DataReader được sử dụng bởi Subscriber để truy cập vào dữ liệu nhận được; 
+(5) một Topic là được xác định bởi một kiểu dữ liệu và một tên.
+Application Protocol,RESTful,Transport,Publish/Subscribe,Request/Response,Security,QoS,Header Size (Byte)
+COAP,✓,UDP,✓,✓,DTLS,✓,4
+MQTT,x,TCP,✓,x,SSL,✓,2
+MQTT-SN,x,TCP,✓,x,SSL,✓,2
+XMPP,x,TCP,✓,✓,SSL,x,-
+AMQP,x,TCP,✓,x,SSL,✓,8
+DDS,x,TCP/UDP,✓,x,SSL/DTLS,✓,-
+HTTP,✓,TCP,x,✓,SSL,x,-
+
+B. Các giao thức truyền thông trong tầng khám phá dịch vụ 
+mDNS (Multicast DNS): Không cần cấu hình server trung tâm. Gửi tin nhắn IP MULTICAST để tìm địa chỉ IP của các thiết bị trong mạng cục bộ qua tên.
+DNS-SD (DNS Service Discovery): UDP,Sử dụng các gói tin DNS chuẩn để tìm dịch vụ (ví dụ: tìm máy in) thông qua mDNS.
+
+C. Các giao thức cơ sở hạ tầng
+ 6LoWPAN (IPv6 protocol over low-power wireless PANs) sử 
+dụng giao thức IPv6 trong các mạng PAN không dây công 
+suất thấp. Dùng trong mạng có những đặc điểm như kích 
+thước gói giới hạn, bang thông thấp, hạn chế năng lượng
+ Có 4 loại tiêu đề dung trong 6LoWPAN:
+ (00) NO 6LoWPAN Header: các gói không phù hợp với đặc điểm 
+kỹ thuật 6LoWPAN sẽ bị loại bỏ.
+ (01) Dispatch Header: Nén tiêu đề IPv6 hoặc đa hướng
+ (10) Mesh Addressing: xác định các gói IEEE 802.15.4 phải 
+được chuyển tiếp.
+ (11) Fragmentation: dùng với các dữ liệu có độ dài
+vượt quá một khung IEEE 802.15.4 (127 byte).
+-	Phân tích hiệu suất của 6LoWPAN trong mạng cảm biến không dây cho thấy độ trễ có tăng lên. Một số vấn đề khác như: tỷ lệ mất gói dữ liệu cao, dễ bị can thiệp
+
+IEEE 802.15.4
+ IEEE 802.15.4 hoạt động ở lớp MAC và lớp vật lý cho mạng 
+PAN không dây tốc độ thấp (LR-WPAN). Đặc điểm tiêu thụ 
+điện năng thấp, tốc độ dữ liệu thấp, chi phí thấp và thông 
+lượng tin nhắn cao, được sử dụng bởi IoT, M2M và WSN. 
+ Cung cấp một giao tiếp đáng tin cậy, khả năng hoạt động 
+trên các nền tảng khác nhau và có thể xử lý một số lượng 
+lớn các nút. (65K)
+ Cung cấp các dịch vụ bảo mật, mã hóa và xác thực ở mức 
+độ cao, nhưng không đảm bảo QoS.
+HỖ TRỢ 2 LOẠI NÚT MẠNG: FFD (Đầy đủ chức năng) và RFD (Chức năng giảm - chỉ giao tiếp với FFD).
+ IEEE 802.15.4 hỗ trợ ba băng tần kênh tần số và sử dụng 
+phương pháp trải phổ chuỗi trực tiếp (DSSS).
+Tần số cao và dải tần số rộng => thông lượng cao và độ trễ thấp
+Tần số thấp => độ nhạy tốt hơn và bao phủ khoảng cách lớn hơn.
+  250 kbps ở 2,4 GHz
+  40 kbps ở 915 MHz
+  20 kbps ở 868 MHz.
+Tiêu chuẩn của các cấu trúc liên kết để tạo thành mạng IEEE 802.15.4 là hình sao, peer-to-peer (mesh), và cluster-tree.
+-	Điện năng tiêu thụ của BLE thấp hơn IEEE 802.15.4, IEEE 802.11ah có khả năng truyền dữ liệu tốt hơn IEEE 802.15.4 kể cả khi ở trạng thái có tải và không tải. Tuy nhiên IEEE 802.15.4 lại tiết kiệm năng lượng hơn, đặc biệt trong các mạng lưới lớn.
+
+BLE (BLUETOOTH LOW ENERGY)
+ Bluetooth năng lượng thấp sử dụng radio tầm ngắn với 
+lượng điện năng tối thiểu để hoạt động trong thời gian dài 
+hơn (thậm chí trong nhiều năm) so với các phiên bản trước 
+của nó.  
+BLE dùng FHSS kết hợp TDMA nhưng phát biểu đơn thuần TDMA thường được coi là chưa chính xác
+ Ưu điểm: phạm vi phủ sóng (khoảng 100 mét) gấp mười lần 
+so với Bluetooth cổ điển trong khi độ trễ của nó thấp hơn 15 
+lần và có thể hoạt động với công suất truyền từ 0,01 mW đến 10 mW.
+ Ứng dụng: Sử dụng nhiều trong các điện thoại thông minh. 
+So với ZigBee, BLE hiệu quả hơn về mức tiêu thụ năng 
+lượng và tỷ lệ năng lượng truyền trên mỗi bit.
+
+EPCGLOBAL (ELECTRONIC PRODUCT CODE)
+ Mã sản phẩm điện tử (EPC) là một số nhận dạng duy nhất được lưu trữ 
+trên thẻ RFID và được sử dụng cơ bản trong quản lý chuỗi cung ứng để 
+xác định các sản phẩm.
+EPC được phân thành bốn loại: 96-bit, 64-bit (I), 64-bit (II) và 64-bit (III). Tất cả các loại EPC 64-bit hỗ trợ khoảng 16 000 công ty có danh tính riêng và bao gồm từ 1 đến 9 triệu loại sản phẩm và 33 triệu số sê-ri cho mỗi loại. Loại 96-bit hỗ trợ khoảng 268 triệu công ty có danh tính riêng, 16 triệu loại sản phẩm và 68 tỷ số sê-ri cho mỗi loại
+Hệ thống gồm: Bộ phát đáp (Tag) và Bộ đọc (Reader). Thông tin tag được tra cứu qua dịch vụ tên đối tượng ONS.
+ EPCglobal là tổ chức chịu trách nhiệm phát triển EPC, quản lý công nghệ 
+và tiêu chuẩn EPC và RFID
+-	Qua một số bài nghiên cứu cho thấy giao thức EPC Gen-2 tốt hơn CDMA
+
+LTE-A (LONG TERM EVOLUTION—ADVANCED )
+LTE-A bao gồm một tập hợp các giao thức truyền thông di động phù hợp tốt cho cơ sở hạ tầng Truyền thông kiểu máy (MTC) và IoT, đặc biệt là cho các thành phố thông minh nơi mong đợi độ bền lâu dài của cơ sở hạ tầng. Hơn nữa, nó vượt trội hơn các giải pháp di động khác về chi phí dịch vụ và khả năng mở rộng.
+LTE-A upload tối đa khoảng 500Mbps; LTE sử dụng OFDMA/SC-FDMA
+Kiến trúc của mạng LTE-A dựa trên 2 phần chủ yếu
+ •	Đầu tiên là Mạng lõi (Core Network - CN): kiểm soát các thiết bị di động và xử lý các luồng gói IP.
+ •	Phần khác là mạng truy cập vô tuyến (RAN): xử lý truyền thông không dây và truy cập vô tuyến, đồng thời thiết lập các giao thức mặt phẳng người dùng và mặt phẳng điều khiển.
+RAN và CN được kết nối thông qua giao diện S1. Các thiết bị di động hoặc MTC có thể kết nối với các trạm gốc trực tiếp hoặc thông qua cổng MTC (MTCG). Tuy nhiên, giao thức này có những thách thức như tắc nghẽn mạng cao khi một số lượng lớn thiết bị đang truy cập mạng. Một thách thức khác, QoS có thể bị xâm phạm khi thiết bị MTC cố gắng truy cập mạng thông qua lựa chọn eNB hoặc MTCG.
+
+Z-WAVE
+ Z-Wave cho phép kết nối điểm-điểm khoảng 30 mét, thường 
+dùng cho mạng tự động hóa gia đình (Home Automation 
+Networks-HAN), nhà thông minh.dải tần 900MHz 
+ Z-Wave cho phép truyền tốc độ 40kbps đến 200kbps.
+ Z-Wave có cấu trúc lưới. Các thiết bị (nút) được liên kết với 
+1 trung tâm. Qua đó sẽ dễ dàng điều khiển bằng điện thoại/máy tính.
+ Ưu điểm: độ tin cậy cao, khả năng mở rộng dễ dàng.
+ Nhược điểm: cấu trúc khép kín, không tương thích được với 
+nhiều thiết bị, bị phụ thuộc vào đường truyền wifi, giá thành cao.
+
+PHY Protocol,Spreading Technique,Radio Band (MHz),MAC Access,Data Rate (bps),Scalability
+IEEE 802.15.4,DSSS,868/915/2400,"TDMA, CSMA/CA","20/40/250 K","65K nodes"
+BLE,FHSS,2400,TDMA,"1024 K","5917 slaves"
+EPCglobal,DS-CDMA,860~960,ALOHA,"Varies 5~640 K",-
+LTE-A,Multiple CC,varies,OFDMA,"1G (up), 500M (down)",-
+Z-Wave,-,"868/908/2400",CSMA/CA,"40K","232 nodes"
+
+BẢO MẬT THEO TẦNG (SECURITY)
+ LỚP LIÊN KẾT (Link Layer): Bảo mật theo tiêu chuẩn IEEE 802.15.4.
+ LỚP MẠNG (Network Layer): IPSec (Bắt buộc cho IPv6).
+ LỚP VẬN CHUYỂN (Transport Layer): TLS (cho TCP) và DTLS (cho UDP).
+ LỚP ỨNG DỤNG (Application Layer): Dựa chủ yếu vào TLS/DTLS.
+ HỆ ĐIỀU HÀNH CONTIKI: Sử dụng giải pháp bảo mật cấp hệ thống tệp tên là CODO.
+ PHÒNG THỦ: Sử dụng IDS (Hệ thống phát hiện xâm nhập) để chống tấn công từ bên trong LoWPAN hoặc Internet.
+
+ 
+Bài 2: LED RGB
+  Hướng Dẫn Điều khiển Led RGB WS2812
+
+#include <Adafruit_NeoPixel.h>   // Gọi thư viện Adafruit NeoPixel để sử dụng
+ 
+#define LED_PIN 3       // Định nghĩa chân kết nối với DIN của LED WS2812
+#define NUM_LEDS 12     // Số lượng LED trong dây NeoPixel
+#define BRIGHTNESS 5       // Điều chỉnh độ sáng (0-255)
+#define LED_TYPE NEO_GRB + NEO_KHZ800  // Loại của LED NeoPixel, ở đây là loại RGB với tần số NEO_KHZ800.
+ 
+Adafruit_NeoPixel strip(NUM_LEDS, LED_PIN, LED_TYPE);   // Khởi tạo đối tượng dải đèn NeoPixel
+
+void setup() {
+  strip.begin();    // Khởi động dải đèn
+  strip.show();      // Tắt tất cả các LED khi khởi động
+  strip.setBrightness(BRIGHTNESS);  // Thiết lập độ sáng cho dải đèn.
+}   
+ 
+void loop() 
+{
+  // Gọi các hàm điều khiển LED tại đây
+  rainbowCycle(20); // Gọi hàm tạo hiệu ứng chạy qua màu sắc của LED NeoPixel.
+}
+// Hàm tạo hiệu ứng chạy qua màu sắc của LED NeoPixel.
+void rainbowCycle(int wait) 
+{
+  uint16_t i, j;
+ 
+  for(j=0; j<256*5; j++)  // Chạy qua màu sắc từ đỏ đến tím
+  {           
+    for(i=0; i< strip.numPixels(); i++) 
+    {
+      strip.setPixelColor(i, Wheel((i+j) & 255));  // Thiết lập màu sắc cho từng LED
+    }
+    strip.show();    // Hiển thị trạng thái mới của các LED sau khi đã cập nhật màu sắc.
+    delay(wait);  // Đợi một khoảng thời gian (wait) trước khi chuyển sang vòng lặp tiếp theo.
+  }
+}
+ 
+// Hàm tính toán màu sắc
+uint32_t Wheel(byte WheelPos) 
+{
+  if(WheelPos < 85) 
+  {
+    return strip.Color(WheelPos * 3, 255 - WheelPos * 3, 0);    // Màu từ đỏ đến vàng
+  } 
+  else if(WheelPos < 170) 
+  {
+    WheelPos -= 85;
+    return strip.Color(255 - WheelPos * 3, 0, WheelPos * 3);    // Màu từ vàng đến xanh lá cây
+  } 
+  else 
+  {
+    WheelPos -= 170;
+    return strip.Color(0, WheelPos * 3, 255 - WheelPos * 3);    // Màu từ xanh lá cây đến tím
+
+Bài 6:
+// include the library code:
+#include <LiquidCrystal.h>
+
+// initialize the library by associating any needed LCD interface pin
+// with the arduino pin number it is connected to
+const int rs = 12, en = 11, d4 = 6, d5 = 5, d6 = 4, d7 = 3;
+LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
+
+void setup() {
+  // set up the LCD's number of columns and rows:
+  lcd.begin(16, 2);
+}
+
+void loop() {
+  
+  lcd.setCursor(5, 0);
+  lcd.print("ABC");
+  lcd.setCursor(1, 1);
+  lcd.print("Hello");
+}
+| Hàm                      | Chức năng          |
+| ------------------------ | ------------------ |
+| lcd.begin()              | Khởi tạo LCD       |
+| lcd.print()              | In chữ/số          |
+| lcd.clear()              | Xóa màn hình       |
+| lcd.setCursor()          | Đặt vị trí con trỏ |
+| lcd.cursor()             | Hiện con trỏ       |
+| lcd.noCursor()           | Ẩn con trỏ         |
+| lcd.scrollDisplayLeft()  | Cuộn trái          |
+| lcd.scrollDisplayRight() | Cuộn phải          |
+
+
+Bài 7:
+#include <Keypad.h>
+const byte ROWS = 4; 
+const byte COLS = 4; 
+char hexaKeys[ROWS][COLS] = {
+  {'1', '2', '3', 'A'},
+  {'4', '5', '6', 'B'},
+  {'7', '8', '9', 'C'},
+  {'*', '0', '#', 'D'}
+};
+byte rowPins[ROWS] = {9, 8, 7, 6}; 
+byte colPins[COLS] = {5, 4, 3, 2}; 
+//Tạo đối tượng keypad
+Keypad customKeypad = Keypad(makeKeymap(hexaKeys), rowPins, colPins, ROWS, COLS); 
+void setup(){
+  Serial.begin(9600);
+}
+  void loop(){
+//Đọc phím nhấn
+  char keyPress = customKeypad.getKey();
+  static int keyCount = 0;
+    if (keyPress){
+    if (keyPress != '#') {
+      Serial.print(keyPress);
+      keyCount++;
+    }
+    if (keyCount >= 10 || keyPress == '#') {
+      Serial.println();
+      keyCount = 0;
+    }
+
+Bài 12
+ 
+#include <Servo.h>
+Servo myservo;  // create servo object to control a servo
+// twelve servo objects can be created on most boards
+int pos = 0;    // variable to store the servo position
+void setup() {
+  myservo.attach(9);  // attaches the servo on pin 9 to the servo object
+}
+void loop() {
+  for (pos = 0; pos <= 180; pos += 1) { // goes from 0 degrees to 180 degrees
+    // in steps of 1 degree
+    myservo.write(pos);              // tell servo to go to position in variable 'pos'
+    delay(15);                       // waits 15ms for the servo to reach the position
+  }
+  for (pos = 180; pos >= 0; pos -= 1) { // goes from 180 degrees to 0 degrees
+    myservo.write(pos);              // tell servo to go to position in variable 'pos'
+    delay(15);                       // waits 15ms for the servo to reach the position
+  }
+}
+
+BÀI 15:
+#include <IRremote.h>
+const int RECV_PIN = 7;
+IRrecv irrecv(RECV_PIN);
+decode_results results;
+int LED1=9, LED2=8;
+void setup(){
+  Serial.begin(9600);
+  irrecv.enableIRIn();
+  irrecv.blink13(true);
+  pinMode(LED1,OUTPUT);
+  pinMode(LED2,OUTPUT);
+}
+void loop(){
+   if (irrecv.decode()){
+   unsigned long Val=irrecv.decodedIRData.decodedRawData;
+     if(Val==0xEF10BF00){
+       digitalWrite(LED1,HIGH);
+        Serial.println(Val,HEX); // Print "old" raw data
+       Serial.println("Den 1 Sang");
+       delay(500);
+     }
+     else if(Val==0xEE11BF00){
+       digitalWrite(LED2,HIGH);
+        Serial.println(Val,HEX); // Print "old" raw data
+       Serial.println("Den 2 Sang");
+       delay(500);
+     }
+     else if(Val==0xF30CBF00){
+       digitalWrite(LED1,LOW);
+       digitalWrite(LED2,LOW);
+        Serial.println(Val,HEX); // Print "old" raw data
+       Serial.println("Hai Den Tat");
+       delay(500);
+     }
+     	//Serial.println(Val,HEX);
+      	irrecv.resume(); // Enable receiving of the next value
+  }
+}
